@@ -1,2 +1,1 @@
-tuic://36106e0f-4d9a-470b-a3fd-535f3b7a1e92:dongtaiwang.com@5.178.101.117:30006/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;congestion_control=cubic&amp;udp_relay_mode=native&amp;alpn=h3#@GozargahAzad|
 tuic://36106e0f-4d9a-470b-a3fd-535f3b7a1e92:dongtaiwang.com@5.178.101.117:30006/?congestion_control=cubic&amp;udp_relay_mode=native&amp;alpn=h3#%F0%9F%98%874%40oneclickvpnkeys
