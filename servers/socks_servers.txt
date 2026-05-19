@@ -1,2 +1,1 @@
-socks://Og%3D%3D@188.121.135.117:9998#azdeltaghalam7%F0%93%84%82%F0%93%86%83
 socks://Og==@192.168.1.147:46597#ShirOKhorshid-MatinSenPIi
