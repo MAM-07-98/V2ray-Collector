@@ -1,6 +1,5 @@
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#v2ray_dalghak
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#v2ray_dalghak
-trojan://humanity@185.126.12.9:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#v2ray_dalghak
-trojan://humanity@sourceforge.net:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;sni=www.calmloud.com#%40filembad
-trojan://lWoqyLZ6xx@snappfood.ir:80/?host=wsphan.q69-cloud.ir&amp;path=%2Fmargbaaramricas&amp;security=none&amp;type=ws#filembad-17
-trojan://telegram-id-privatevpns@63.184.236.74:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#v2ray_dalghak
+trojan://2399fe0a-b359-40a9-a3f0-b70c3c177a01@cloudflare-ip.mofashi.ltd:443?type=ws&amp;host=aa.beijng.dpdns.org&amp;path=/?ed=2048&amp;security=tls&amp;sni=aa.beijng.dpdns.org#v2ray_dalghak
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#[58075]
+trojan://humanity@127.0.0.1:40443?type=ws&amp;host=www.creationlong.org&amp;path=/assignment&amp;security=tls&amp;sni=www.creationlong.org&amp;fp=chrome&amp;allowInsecure=1&amp;echfq=none#v2ray_dalghak
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#[58068]
+trojan://lWoqyLZ6xx@snappfood.ir:80/?host=wsphan.q69-cloud.ir&amp;path=%2Fmargbaaramricas&amp;security=none&amp;type=ws#v2ray_dalghak
