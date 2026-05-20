@@ -1,3 +1,2 @@
-socks://Og@185.239.106.84:1449#%40Shomarrreh
-socks://Og@85.133.217.119:10808#%40Shomarrreh
-socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#%E2%9C%85%EF%B8%8F%D8%A8%DB%8C%D8%A7%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Shomarrreh%40
+socks://Og%3D%3D@185.239.106.84:1449#%40V2rayNG_Cafe
+socks://Og@85.133.217.119:10808#%40config4k
