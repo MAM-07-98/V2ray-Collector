@@ -1,4 +1,5 @@
-socks://Og==@192.168.1.147:46597#ShirOKhorshid-MatinSenPIi
-socks://Og@1.1.1.1:10808#%40ProxyVPN11
-socks://Og@185.239.106.84:1449#%F0%9F%8F%AETel--%40V2rayAlpha--1
-socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#%E2%9C%85%EF%B8%8F%D8%A8%DB%8C%D8%A7%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Shomarrreh%40
+socks://Og%3D%3D@185.239.106.84:1449#https://t.me/ConfigX2ray
+socks://Og@185.239.106.84:1449#%40Shomarrreh
+socks://Og@193.242.125.88:8052#%40FastNetTools
+socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#%40i10VPN%20-%20Psiphon%2082
+socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#
