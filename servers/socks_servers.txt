@@ -1,6 +1,6 @@
-socks://Og%3D%3D@185.239.106.84:1449#%40Hddify
-socks://Og==@62.220.126.92:32302?type=tcp#Telegram%20:
-socks://Og@185.239.106.84:1449#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
-socks://Og@85.133.217.119:10808#SryLove
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
-socks://d2FudGVkOndhbnRlZA%3D%3D@188.121.119.248:9#%40byiroh
+socks://Og%3D%3D@185.239.106.84:1449#
+socks://Og@62.220.126.56:30170#
+socks://Og@62.220.126.92:30871#
+socks://Og@85.133.217.119:10808#DA
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#
+socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#%F0%9F%A6%89%40FreeConfigForYou
