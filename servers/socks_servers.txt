@@ -1,1 +1,5 @@
-socks://Og@85.133.217.119:10808#%40vipconfingg
+socks://Og%3D%3D@185.239.106.84:1449#%40V2rayNG_Cafe
+socks://Og==@192.168.1.147:46597#ShirOKhorshid-MatinSenPIi
+socks://Og@185.239.106.84:1449#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+socks://Og@192.168.137.1:10808#%40Maznet-Spoof
+socks://Og@85.133.217.119:10808#%40config4k
