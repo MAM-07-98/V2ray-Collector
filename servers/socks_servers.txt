@@ -1,4 +1,4 @@
-socks://93.113.230.140:10808?type=tcp#VoltTunnelx
-socks://Og@171.22.24.184:1080#@sogoandfuckyourlove
-socks://Og@178.131.140.103:1080#@sogoandfuckyourlove
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#@SryLove
+socks://Og@171.22.24.184:1080#%40UnNurmal
+socks://Og@178.131.140.103:1080#%40NormanV2ray
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40Shomarrreh
+socks://d2FudGVkOndhbnRlZA@188.121.119.248:9#%F0%9F%87%AE%F0%9F%87%B726908%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
