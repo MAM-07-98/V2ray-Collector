@@ -1,1 +1,1 @@
-socks://Og==@62.220.126.92:32302?type=tcp#Telegram%20:
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#@themecherie
