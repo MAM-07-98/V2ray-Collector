@@ -1,2 +1,4 @@
-socks://Og==@192.168.1.147:46597#ShirOKhorshid-MatinSenPIi
-socks://Og@81.12.24.237:32114#%F0%9F%87%AE%F0%9F%87%B727292%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://93.113.230.140:10808?type=tcp#YamYamProxy
+socks://Og@1.1.1.1:10808#%40ProxyVPN11
+socks://Og@81.12.24.237:32114#%F0%9F%87%AE%F0%9F%87%B727341%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks://Og@85.133.217.119:10808#
