@@ -1,2 +1,8 @@
-trojan://humanity@104.21.40.34:443?security=tls&amp;sni=www.gossipglove.com&amp;allowInsecure=1&amp;type=ws&amp;host=www.gossipglove.com&amp;path=%2Fassignment#v2ray_dalghak
-trojan://n2asQTql7j@snapp.ir:2086/?type=ws&amp;path=%2F&amp;host=max1.sohrab172.ir&amp;security=none#%F0%9F%87%AE%F0%9F%87%B727756%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;type=ws&amp;security=tls&amp;path=%2Ftr&amp;host=Koma-YT.PAGeS.Dev&amp;sni=Koma-YT.PAGeS.Dev&amp;allowInsecure=1#@GozargahAzad|
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?type=ws&amp;security=tls&amp;path=%2Ftr&amp;host=Koma-YT.PAGeS.Dev&amp;sni=Koma-YT.PAGeS.Dev&amp;allowInsecure=1#v2ray_dalghak
+trojan://humanity@104.19.229.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.multiplydose.com&amp;sni=www.multiplydose.com&amp;allowInsecure=1#@GozargahAzad|
+trojan://humanity@104.19.229.21:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.multiplydose.com&amp;sni=www.multiplydose.com&amp;allowInsecure=1#v2ray_dalghak
+trojan://humanity@188.121.121.183:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%40V2rayTun0
+trojan://humanity@2.144.2.245:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#SryLove
+trojan://humanity@sourceforge.net:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;sni=www.calmloud.com#v2ray_dalghak
+trojan://humanity@www.multiplydose.com:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#v2ray_dalghak
