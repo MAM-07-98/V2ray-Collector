@@ -1,4 +1,7 @@
-trojan://162534@172.64.152.23:443?allowInsecure=0&amp;sni=cchh2.pages.dev&amp;type=ws&amp;host=cchh2.pages.dev&amp;path=/?ed=2560&amp;https://t.me/WangCai2
-trojan://humanity@104.19.229.21:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.multiplydose.com&amp;sni=www.multiplydose.com&amp;allowInsecure=1#[62051]
-trojan://humanity@188.121.121.183:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%40V2rayTun0
-trojan://humanity@sourceforge.net:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;sni=www.calmloud.com#[62043]
+trojan://2Bb8zvNNJd@snappfood.ir:80?path=%2Fmargbaaramricas&amp;security=none&amp;host=wsphan.q69-cloud.ir&amp;type=ws#%40configmax
+trojan://humanity@104.19.229.21:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.multiplydose.com&amp;sni=www.multiplydose.com&amp;allowInsecure=1#v2ray_dalghak
+trojan://humanity@193.151.152.73:40443?path=%2Fassignment&amp;security=tls&amp;host=www.ignitelimit.com&amp;type=ws&amp;sni=www.ignitelimit.com#%40configmax
+trojan://humanity@2.144.2.251:443?security=tls&amp;sni=www.creationlong.org&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#%40filembad
+trojan://humanity@sourceforge.net:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;sni=www.calmloud.com#v2ray_dalghak
+trojan://n2asQTql7j@snapp.ir:2086/?type=ws&amp;path=%2F&amp;host=max1.sohrab172.ir&amp;security=none#
+trojan://telegram-id-privatevpns@13.37.60.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#
