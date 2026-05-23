@@ -1,4 +1,1 @@
-socks://Og@171.22.24.184:1080#%40configmax
-socks://Og@178.131.140.103:1080#%40configmax
-socks://Og@193.242.125.88:8052#
-socks://d2FudGVkOndhbnRlZA@188.121.119.248:9#%40configmax
+socks://Og@109.122.252.86:1080#%40Hddify

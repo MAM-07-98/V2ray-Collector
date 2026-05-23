@@ -1,7 +1,4 @@
-trojan://2Bb8zvNNJd@snappfood.ir:80?path=%2Fmargbaaramricas&amp;security=none&amp;host=wsphan.q69-cloud.ir&amp;type=ws#%40configmax
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?path=%2Ftr&amp;security=tls&amp;insecure=1&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;allowInsecure=1&amp;sni=Koma-YT.PAGeS.Dev#v2ray_dalghak
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#v2ray_dalghak
+trojan://humanity@104.20.6.134:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#v2ray_dalghak
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;allowInsecure=1&amp;type=ws&amp;host=www.creationlong.org&amp;path=%2Fassignment#v2ray_dalghak
 trojan://humanity@188.209.153.116:443?security=tls&amp;sni=www.ignitelimit.com&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.ignitelimit.com&amp;path=%2Fassignment#v2ray_dalghak
-trojan://humanity@193.151.152.73:40443?path=%2Fassignment&amp;security=tls&amp;host=www.ignitelimit.com&amp;type=ws&amp;sni=www.ignitelimit.com#%40configmax
-trojan://humanity@45.89.221.111:443?security=tls&amp;sni=www.ignitelimit.com&amp;type=ws&amp;host=www.ignitelimit.com&amp;path=%2Fassignment&amp;allowInsecure=0#v2ray_dalghak
-trojan://wGXrCAVQoP@serval.jpax.ir:8080?path=%2Fserval&amp;security=none&amp;host=serval.jpax.ir&amp;type=ws#v2ray_dalghak
+trojan://humanity@2.144.2.251:443?security=tls&amp;sni=www.creationlong.org&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#%40Pirimod
