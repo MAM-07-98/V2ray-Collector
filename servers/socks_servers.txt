@@ -1,2 +1,2 @@
-socks://81.12.24.237:32577?type=tcp#Telegram
-socks://Og@109.122.252.86:1080#https://t.me/vasl_bashim
+socks://Og@192.168.137.1:10808#%40Maznet-Spoof
+socks://Og@193.242.125.88:8052#
