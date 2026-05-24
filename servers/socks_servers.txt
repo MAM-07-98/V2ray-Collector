@@ -1,2 +1,2 @@
-socks://45.147.76.238:10808?type=tcp#%40vasl_bashim
-socks://Og@81.12.80.194:3030
+socks://Og==@81.12.24.237:25497#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%97%BE+prrofile_purple%40
+socks://Og@81.12.80.194:3030#
