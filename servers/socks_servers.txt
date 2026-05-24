@@ -1,4 +1,3 @@
-socks://81.12.24.237:32577?type=tcp#Telegram
-socks://Og%3D%3D@81.12.80.194:3030#%40V2rayNG_Cafe
-socks://Og==@81.12.24.237:25497#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%97%BE+prrofile_purple%40
-socks://Og@81.12.80.194:3030#
+socks://Og@109.122.252.86:1080
+socks://Og@81.12.80.194:3030#@ProxyV2IR
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw%3D%3D@91.222.196.8:7071#%F0%9F%A6%89%40FreeConfigForYou
