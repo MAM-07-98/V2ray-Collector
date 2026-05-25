@@ -1,1 +1,4 @@
-socks://Og@81.12.80.194:3030#%40Shomarrreh
+socks://93.113.230.143:10808?type=tcp#
+socks://Og@62.220.126.92:25864#3https://t.me/ConfigX2ray
+socks://Og@81.12.24.160:26154#2https://t.me/ConfigX2ray
+socks://Og@81.12.80.194:3030#

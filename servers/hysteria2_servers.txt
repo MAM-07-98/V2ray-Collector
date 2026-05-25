@@ -1,1 +1,3 @@
-hysteria2://HvD68H4VFx@srm.kishonline.online:443?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=kish-data-center&amp;insecure=0&amp;sni=srm.kishonline.online#SRM-telegram%40B2vasl1
+hysteria2://channel:Bu3eNYc5efAmgnWkbG9w@fiv4.alexanderoff.ru:443?sni=fiv4.alexanderoff.ru&amp;insecure=0#
+hysteria2://channel:HYyx9NmF3xpDbdyVP5hd@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
+hysteria2://new:5U2kfHM5JHqqJE5j3cKA@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
