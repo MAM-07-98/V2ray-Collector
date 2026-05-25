@@ -1,4 +1,4 @@
-socks://Og@192.168.137.1:10808#%40Maznet-Spoof
-socks://Og@62.220.126.92:25864#3@crayingroom
-socks://Og@81.12.24.160:26154#2https://t.me/
-socks://Og@81.12.80.194:3030#%40Shomarrreh
+socks://93.113.230.143:10808?type=tcp#https://t.me/ConfigX2ray
+socks://Og@62.220.126.92:25864#%40FastNetTools
+socks://Og@81.12.24.160:26154#%40FastNetTools
+socks://Og@81.12.80.194:3030#%40vasl_bashim
