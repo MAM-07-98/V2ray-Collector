@@ -1,6 +1,4 @@
-hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?insecure=1&amp;allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%EF%BD%9C01%EF%BD%9CHKT
-hysteria2://39c2e591-2ebe-4a6f-bea4-803783cd5183@sg03.459292.xyz:8080?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&amp;type=hysteria&amp;security=tls&amp;sni=sg03.459292.xyz&amp;alpn=h3&amp;fp=chrome&amp;allowInsecure=1&amp;echfq=none#En_Vpn
-hysteria2://6nne3n3cuvhyvdyo@jp.zlr.dpdns.org:14817?security=tls&amp;insecure=0&amp;sni=jp.zlr.dpdns.org#%40Config0plus%F0%9F%A5%B7%F0%9F%8F%BB
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@136.0.42.119:2056?security=tls&amp;insecure=1&amp;sni=mg5.mangshe.xyz#%E2%9B%B348%40ConfigV2RayNG%0D
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@37.114.49.38:2056?security=tls&amp;insecure=1#%40Config0plus%F0%9F%87%A6%F0%9F%87%BD
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@5.39.254.225:2056?security=tls&amp;insecure=1&amp;sni=ld1.mangshe.xyz#%40Config0plus%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://9994536d-4824-45f9-bdc9-ccde0443f3fa@assgzl.hhwyy.xyz:35561/?insecure=1&amp;sni=assgzl.hhwyy.xyz#%E2%9B%B346@oneclickvpnkeys
+hysteria2://de72b066a61a39af@204.12.170.168:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=726c9c641a068d74&amp;sni=claude.ai#%E2%9B%B349@oneclickvpnkeys
+hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@136.0.42.119:2056/?insecure=1&amp;sni=mg5.mangshe.xyz#%E2%9B%B348@oneclickvpnkeys%0D
+hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@166.88.142.205:2056/?insecure=1&amp;sni=mg6.mangshe.xyz#%E2%9B%B347@oneclickvpnkeys
