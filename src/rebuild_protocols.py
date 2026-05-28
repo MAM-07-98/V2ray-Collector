@@ -16,26 +16,29 @@ def main():
     with open(ALL_SERVERS, "r", encoding="utf-8") as f:
         configs = sorted({line.strip() for line in f if line.strip()})
 
-    # -- نگاشت نام‌های غیراستاندارد --
+    # -- نگاشت نام‌های غیراستاندارد به استاندارد --
     PROTO_MAP = {
         "hy2": "hysteria2",
-        "hysteria": "hysteria",      # بدون تغییر
-        "tuic": "tuic",
-        "juicity": "juicity",
-        # اگر مورد دیگری بود اینجا اضافه کنید
+        "VLESS": "vless"
     }
+
+    # ساخت پوشه servers اگر وجود ندارد
+    os.makedirs("servers", exist_ok=True)
 
     protocols = {}
     for cfg in configs:
         if '://' not in cfg:
             proto = 'other'
         else:
-            proto = cfg.split('://')[0].strip().lower()   # یکسان‌سازی حروف
-            proto = PROTO_MAP.get(proto, proto)           # ترجمه نام‌های خاص
+            original_proto = cfg.split('://')[0].strip().lower()
+            # ترجمه نام‌های خاص
+            proto = PROTO_MAP.get(original_proto, original_proto)
+
+            # اگر پروتکل ترجمه شده، لینک را هم اصلاح کن
+            if original_proto != proto:
+                cfg = cfg.replace(f"{original_proto}://", f"{proto}://", 1)
 
         protocols.setdefault(proto, []).append(cfg)
-
-    os.makedirs("servers", exist_ok=True)
 
     for proto, items in protocols.items():
         fname = f"servers/{proto}_servers.txt"
