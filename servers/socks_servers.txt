@@ -1,2 +1,1 @@
-socks://Og@109.122.252.86:1080#Black_Star_Vpn
-socks://Og@62.220.126.92:25864#%40Spartan_YT
+socks://Og@81.12.80.194:3030#%40i10VPN%20-%20Psiphon%2089
