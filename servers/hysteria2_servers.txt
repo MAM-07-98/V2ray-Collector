@@ -1,3 +1,1 @@
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?headerType=none&amp;encryption=none&amp;sni=s559.ccgfw.top&amp;insecure=0#%F0%9F%87%BA%F0%9F%87%B838647%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://39c2e591-2ebe-4a6f-bea4-803783cd5183@sg03.459292.xyz:8080?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&amp;type=hysteria&amp;security=tls&amp;sni=sg03.459292.xyz&amp;alpn=h3&amp;fp=chrome&amp;allowInsecure=1&amp;echfq=none#En_Vpn
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&amp;insecure=1&amp;sni=hy2.123266.xyz#%40filembad
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&amp;insecure=1&amp;sni=hy2.123266.xyz#%40filtershekan_channel%20%7C8
