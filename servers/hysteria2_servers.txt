@@ -1,1 +1,2 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&amp;sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B738976%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://BMmGlfFVF7@speedtest.mozit.site:46425?security=tls&amp;obfs=salamander&amp;obfs-password=welovegod&amp;insecure=1&amp;sni=mci.ir#%F0%9F%8C%9D44%40ConfigV2RayNG
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&amp;sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B738927%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
