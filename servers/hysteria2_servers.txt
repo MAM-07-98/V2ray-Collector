@@ -1,1 +1,2 @@
-hysteria2://MasirSefid@18.194.55.17:443?security=tls&amp;obfs=salamander&amp;obfs-password=MasirSefid&amp;insecure=0&amp;sni=qs.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA39191%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://MasirSefid@18.194.55.17:443?security=tls&amp;obfs=salamander&amp;obfs-password=MasirSefid&amp;insecure=0&amp;sni=qs.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA39240%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&amp;sni=www.microsoft.com#%F0%9F%A6%8475@oneclickvpnkeys
