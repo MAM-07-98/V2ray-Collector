@@ -1,5 +1,5 @@
 hysteria2://BMmGlfFVF7@speedtest.mozit.site:46425/?insecure=1&amp;obfs=salamander&amp;obfs-password=welovegod&amp;sni=mci.ir#%F0%9F%8C%9D44@oneclickvpnkeys
-hysteria2://channel:Bu3eNYc5efAmgnWkbG9w@fiv4.alexanderoff.ru:443?sni=fiv4.alexanderoff.ru&amp;insecure=0#
-hysteria2://channel:HYyx9NmF3xpDbdyVP5hd@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
-hysteria2://new:5U2kfHM5JHqqJE5j3cKA@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
-hysteria2://qqqqqq:Wvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
+hysteria2://BMmGlfFVF7@speedtest.mozit.site:46425?insecure=1&sni=mci.ir&obfs=salamander&obfs-password=welovegod#%F0%9F%8C%9D44%40oneclickvpnkeys
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@in.9966690.xyz:30000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NT365A==#A%20-%20%F0%9F%87%AE%F0%9F%87%B3%20IN%2001%20TG%3A%20%40nodpai
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2%20%232
