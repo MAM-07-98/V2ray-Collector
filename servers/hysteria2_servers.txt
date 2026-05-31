@@ -1,7 +1,3 @@
-hysteria2://Masir_Sefid@18.157.100.78:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40TROWER_NEWS
-hysteria2://Masir_Sefid@18.157.100.78:4040?security=tls&amp;insecure=0&amp;obfs=salamander&amp;obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA40289%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://Masir_Sefid@18.157.100.78:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40TROWER_NEWS
-hysteria2://Masir_Sefid@18.157.100.78:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40TROWER_NEWS
-hysteria2://Masir_Sefid@18.157.100.78:444?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40TROWER_NEWS
-hysteria2://Masir_Sefid@18.157.100.78:54040?security=tls&amp;insecure=0&amp;obfs=salamander&amp;obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA40290%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://Masir_Sefid@18.157.100.78:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40TROWER_NEWS
+hysteria2://Masir_Sefid@18.157.100.78:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA40341%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://Masir_Sefid@18.157.100.78:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA40340%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://Masir_Sefid@18.157.100.78:8880?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40TROWER_NEWS
