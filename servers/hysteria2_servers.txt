@@ -1,7 +1,6 @@
-hysteria2://Masir_Sefid@18.159.104.97:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40FreeLand8%20%F0%9F%95%8A%202
-hysteria2://Masir_Sefid@18.159.104.97:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40FreeLand8%20%F0%9F%95%8A%201
-hysteria2://Masir_Sefid@18.194.238.82:444?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#@GozargahAzad|
-hysteria2://Masir_Sefid@18.194.238.82:444?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40filembad
-hysteria2://Masir_Sefid@18.194.238.82:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%E2%9C%85%40v2r_ayorg
-hysteria2://Masir_Sefid@18.196.180.90:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40Iranvasll
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&amp;insecure=1&amp;sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B842349%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://39c2e591-2ebe-4a6f-bea4-803783cd5183@sg03.459292.xyz:8080?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&amp;type=hysteria&amp;security=tls&amp;sni=sg03.459292.xyz&amp;alpn=h3&amp;fp=chrome&amp;allowInsecure=1&amp;echfq=none#En_Vpn
+hysteria2://Masir_Sefid@18.194.238.82:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%F0%9F%86%94%EF%B8%8F%20%7C%20%40Eag1e_YT%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B2%E2%81%B9%E2%81%B5%E3%80%8F
+hysteria2://Masir_Sefid@18.194.238.82:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#
+hysteria2://Masir_Sefid@18.194.238.82:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#
+hysteria2://Masir_Sefid@18.196.180.90:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%D8%B4%D9%85%D8%A7%D8%B1%D9%87%20%DB%B1
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&amp;insecure=1&amp;sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B842350%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
