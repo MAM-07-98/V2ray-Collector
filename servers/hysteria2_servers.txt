@@ -1,3 +1,4 @@
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&amp;sni=de2.xiaoliyu.cyou#%F0%9F%9A%9843@oneclickvpnkeys
-hysteria2://39c2e591-2ebe-4a6f-bea4-803783cd5183@sg03.459292.xyz:8080?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&amp;type=hysteria&amp;security=tls&amp;sni=sg03.459292.xyz&amp;alpn=h3&amp;fp=chrome&amp;allowInsecure=1&amp;echfq=none#En_Vpn
-hysteria2://Masir_Sefid@18.159.66.5:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#
+hysteria2://Masir_Sefid@18.159.66.5:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40config4k%20_%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+hysteria2://exernr797y2dvxrb@18.159.66.5:8880?security=tls&amp;obfs=salamander&amp;obfs-password=JynMarket&amp;insecure=0&amp;sni=cdn.pedramdns.shop#2_Telegram@PAYAM_NSI
+hysteria2://lmtmpdlj9ojwu2iw@18.159.66.5:444?security=tls&amp;obfs=salamander&amp;obfs-password=JynMarket&amp;insecure=0&amp;sni=cdn.pedramdns.shop#1_Telegram@PAYAM_NSI
+hysteria2://qqqqqq:Wvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
