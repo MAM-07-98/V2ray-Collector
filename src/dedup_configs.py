@@ -406,19 +406,23 @@ def normalize_ss(raw: str) -> tuple[Optional[str], Optional[str]]:
 
 def normalize_generic(raw: str, scheme_in: str) -> tuple[Optional[str], Optional[str]]:
     """
-    Generic URI canonicalizer for VLESS / Trojan / SOCKS / Hysteria / TUIC / WireGuard / AnyTLS etc.
+    Generic URI canonicalizer for VLESS / Trojan / SOCKS / Hysteria / TUIC / Juicity / AnyTLS.
+    Returns (dedup_key, canonical_uri).
+    Invalid links are skipped safely instead of crashing the job.
     """
     if "://" not in raw:
         return None, None
 
-    parsed = urlsplit(raw)
-    scheme = SCHEME_ALIASES.get(parsed.scheme.lower(), parsed.scheme.lower())
+    try:
+        parsed = urlsplit(raw)
+    except ValueError:
+        logger.warning("Skipping invalid URI: %s", raw)
+        return None, None
+
+    scheme = SCHEME_ALIASES.get(parsed.scheme.lower(), parsed.scheme.lower()) or scheme_in.lower()
     if not scheme:
         return None, None
 
-    # parsed.port can raise ValueError if the port is malformed, for example:
-    # vless://user@host:…
-    # In that case we should not crash the whole job.
     try:
         port = parsed.port
     except ValueError:
@@ -430,7 +434,6 @@ def normalize_generic(raw: str, scheme_in: str) -> tuple[Optional[str], Optional
     path = parsed.path or ""
     query_pairs = canonical_query_pairs(parsed.query)
 
-    # VLESS UUID is case-insensitive. Trojan password is not.
     if scheme == "vless":
         userinfo = userinfo.lower()
 
@@ -446,7 +449,13 @@ def normalize_generic(raw: str, scheme_in: str) -> tuple[Optional[str], Optional
     }
 
     key = json.dumps(key_obj, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
-    canonical_uri = build_uri(scheme, userinfo or None, host, port, path, query_pairs, "")
+
+    try:
+        canonical_uri = build_uri(scheme, userinfo or None, host, port, path, query_pairs, "")
+    except Exception:
+        logger.warning("Skipping invalid URI during rebuild: %s", raw)
+        return None, None
+
     return key, canonical_uri
 
 
