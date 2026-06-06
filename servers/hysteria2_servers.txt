@@ -1,1 +1,2 @@
-hysteria2://Masir_Sefid@65.109.216.181:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qs.masir-sefid.shop#t.me%2FRaiv2mmr
+hysteria2://91lsqgw8jx8o442n@83.143.112.143:8443?alpn=h3&amp;fp=chrome&amp;security=tls&amp;sni=83.143.112.143#russ2-r2
+hysteria2://Masir_Sefid@18.157.222.169:443?sni=free.masir-sefid.shop&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=Masir_Sefid#Telegram+%7C+Payam_Nsi
