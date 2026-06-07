@@ -1,1 +1,2 @@
-hysteria2://e672e150-747f-4776-acba-9c4b45706d9e@1.xinyuwang.ggff.net:31455?sni=www.bing.com&amp;insecure=1&amp;allowInsecure=1&amp;pinSHA256=D309034F3E1EB42A5B5D15ED06EA97B857236DBCD367815CBF4CD6702CFB6F67#%40zyzzzoao%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F
+hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#ConfigV2RayNG
+hysteria2://masir_sefid@18.157.51.145:443?security=tls&amp;obfs=salamander&amp;obfs-password=masir_sefid&amp;insecure=0&amp;mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&amp;sni=content.masir-sefid.shop#TELEGRAM%3A%40ConfigV2RayNG
