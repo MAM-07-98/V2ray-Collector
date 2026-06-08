@@ -1,8 +1,4 @@
-hysteria2://%40Masir_Sefid@18.157.222.169:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA%40v2raytun_kanfing
-hysteria2://%40Masir_Sefid@18.157.222.169:44044?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA%40v2raytun_kanfing
-hysteria2://%40Masir_Sefid@18.157.222.169:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA%40v2raytun_kanfing
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&amp;sni=de2.xiaoliyu.cyou#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&amp;sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://masir_sefid@18.157.51.145:443?security=tls&amp;obfs=salamander&amp;obfs-password=masir_sefid&amp;insecure=0&amp;mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&amp;sni=content.masir-sefid.shop#%40filembad
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20%E2%8F%B1526ms%20%7C%20%E2%9A%A11.2MB%2Fs%20%7C%20%40NamazVPN
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&amp;sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://%40Masir_Sefid@18.157.222.169:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA%40V2rayng_Fast
+hysteria2://%40Masir_Sefid@18.157.222.169:44044?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA%40
+hysteria2://%40Masir_Sefid@18.157.222.169:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA%40V2rayng_Fast
+hysteria2://masir_sefid@18.157.51.145:443?security=tls&amp;obfs=salamander&amp;obfs-password=masir_sefid&amp;insecure=0&amp;mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&amp;sni=content.masir-sefid.shop#
