@@ -1,3 +1,10 @@
-hysteria2://Masir_Sefid@84.234.29.238:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;mport=443-20000%2C40000-50000&amp;sni=Api.masir-sefid-1.my#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%E2%8F%B1566ms%20%7C%20%E2%9A%A11.3MB%2Fs%20%7C%20%40NamazVPN
-hysteria2://Vitamini_Channel@cdn.accuratenetworkchecker.ir:59095?security=tls&amp;obfs=salamander&amp;obfs-password=ao5xmpi6qiedxrs2&amp;insecure=1&amp;sni=cdn.accuratenetworkchecker.ir#
-hysteria2://miaoge110@5.45.100.100:51511/?insecure=1&amp;sni=www.bing.com#%F0%9F%A5%8E17@oneclickvpnkeys
+hysteria2://Masir_Sefid@206.189.58.246:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
+hysteria2://Masir_Sefid@206.189.58.246:2053?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
+hysteria2://Masir_Sefid@206.189.58.246:2087?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
+hysteria2://Masir_Sefid@206.189.58.246:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
+hysteria2://Masir_Sefid@206.189.58.246:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
+hysteria2://Masir_Sefid@206.189.58.246:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
+hysteria2://Masir_Sefid@206.189.58.246:8443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
+hysteria2://Nrqyc1GkGr@panel.cobalttoolsgithub.online:54236?security=tls&amp;obfs=salamander&amp;obfs-password=gxXGwphUe6APbFFsWA&amp;insecure=0&amp;sni=panel.cobalttoolsgithub.online#%40filembad
+hysteria2://Nrqyc1GkGr@panel.cobalttoolsgithub.online:54236?security=tls&amp;sni=&amp;obfs=salamander&amp;obfs-password=gxXGwphUe6APbFFsWA&amp;fastopen=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Houston%20%7C%20%E2%8F%B11173ms%20%7C%20%E2%9A%A1697KB%2Fs%20%7C%20%40NamazVPN
+hysteria2://Nrqyc1GkGr@panel.cobalttoolsgithub.online:54236?security=tls&amp;sni=panel.cobalttoolsgithub.online&amp;obfs=salamander&amp;obfs-password=gxXGwphUe6APbFFsWA&amp;fastopen=0#%40filembad
