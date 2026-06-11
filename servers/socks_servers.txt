@@ -1,4 +1,2 @@
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20SOCKS%20%7C%20fi-esp.pvdata.host%3A1080
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080?note=@FreeOnlineVPN#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2C%20LU%20%7C%20SOCKS%20%7C%20lu-lux.pvdata.host%3A1080
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20SOCKS%20%7C%20pl-tor.pvdata.host%3A1080
-socks://telegram-confixio@193.151.149.247:8220#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%7C%20SOCKS%20%7C%20193.151.149.247%3A8220
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#
