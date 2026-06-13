@@ -1,2 +1,1 @@
-hysteria2://91lsqgw8jx8o442n@83.143.112.143:8443?alpn=h3&amp;fp=chrome&amp;security=tls&amp;sni=83.143.112.143#russ2-r2
-hysteria2://rmmx0x6kmwwppf6i@109.237.98.81:443?alpn=h3&amp;fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%225i4ciuz6d1431zbt%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&amp;fp=firefox&amp;obfs=salamander&amp;obfs-password=5i4ciuz6d1431zbt&amp;security=tls&amp;sni=109.237.98.81#
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1&amp;sni=vpn-de-002.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.6MB%2Fs
