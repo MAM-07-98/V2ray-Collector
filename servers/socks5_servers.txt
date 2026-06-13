@@ -1,2 +1,4 @@
-socks5://:@185.125.102.149:1080
-socks5://T2clM0QlM0Q6@121.169.46.116:1090
+socks5://localhost:1080
+socks5://user:pass@localhost:1080
+socks5://username:password@localhost:1080
+socks5://username:password@some-socks-proxy.com:9050
