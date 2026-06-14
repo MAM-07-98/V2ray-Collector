@@ -1,1 +1,1 @@
-hysteria2://90h5qo8tmd4xg6a9@tr.iranfastspeed.com.tr:37030?sni=77.83.245.253&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=1&amp;allowInsecure=1&amp;obfs=salamander&amp;obfs-password=sjkdtjyv7gnxhg9f#%F0%9F%87%B9%F0%9F%87%B769477%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&amp;sni=de1.xiaoliyu.cyou#%F0%9F%90%8A44@oneclickvpnkeys
