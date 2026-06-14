@@ -1,5 +1,4 @@
-socks://TV9ZT1VfRDpQcml2YXRl@us7.cactussstp.com:1080#telegram%20%40mtmvpn
-socks://TV9ZT1VfRDpQcml2YXRl@us9.cactussstp.com:1080#telegram%20%40mtmvpn
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20mtmvpn
-socks://VjJSYXl5Tkd2cG46VjJSYXl5Tkd2cG4@109.61.42.73:80#%F0%9F%87%A6%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A6%F0%9F%87%AA
-socks://WFF5Z1FBT3A6MXNtMVJMWnNxaw@87.120.106.73:80#%F0%9F%87%B9%F0%9F%87%B7%40V2RayyNGvpn%F0%9F%87%B9%F0%9F%87%B7Gaming%F0%9F%9A%80
+socks://Og@185.125.102.149:1080#%F0%9F%A6%9546%40ConfigV2RayNG
+socks://TV9ZT1VfRDpQcml2YXRl@us7.cactussstp.com:1080#
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#
