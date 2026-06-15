@@ -80,17 +80,3 @@ jobs:
             git pull --rebase --strategy-option ours
             git push
           fi
-
-      # ----- مرحلهٔ ۵: اجرای مجدد خودکار -----
-      - name: Trigger next run
-        if: success()
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GH_TOKEN }}
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              workflow_id: 'collector.yml',
-              ref: 'main'
-            });
