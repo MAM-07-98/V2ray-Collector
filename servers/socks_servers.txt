@@ -1,1 +1,1 @@
-socks://U2ticVF5VGc6VjJSYXl5Tkd2cG4@5.161.158.18:2083#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#@normanv2ray
