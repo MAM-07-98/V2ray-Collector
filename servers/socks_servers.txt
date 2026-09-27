@@ -1,2 +1,1 @@
-socks://Og@185.79.96.92:1070#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-socks://Og@185.79.96.94:1070#Channel%20%3A%20%40Daily_Configs
+socks://Og@144.91.121.61:1088#%40v2rayargon%20%F0%9F%87%A9%F0%9F%87%AA
