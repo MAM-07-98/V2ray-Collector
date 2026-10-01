@@ -1,16 +1,12 @@
-name: Unified Collector (auto-chain, dual token)
+name: Simple Collector (ConfigsHUB only)
 
 on:
-  workflow_dispatch:      # فقط با اجرای دستی شروع می‌شود
-
-concurrency:
-  group: collector-run
-  cancel-in-progress: false
+  workflow_dispatch:
 
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 30
     permissions:
       contents: write
 
@@ -30,41 +26,18 @@ jobs:
       - name: Run Telegram Collector
         run: python src/telegram_collector.py
 
-      - name: Generate GitHub App token
-        id: app-token
-        uses: actions/create-github-app-token@v2
-        with:
-          app-id: ${{ secrets.GH_APP_ID }}
-          private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
-
-      # --- مدیریت شمارنده برای الگوی Classic, Classic, App, App ---
-      - name: Select token based on counter
-        id: select-token
+      - name: Merge all configs into all_servers.txt
         run: |
-          COUNTER_FILE="data/token_state.txt"
-          if [ ! -f "$COUNTER_FILE" ]; then
-            echo "0" > "$COUNTER_FILE"
+          > all_servers.txt
+          if [ -d "servers" ]; then
+            for file in servers/*; do
+              if [ -f "$file" ]; then
+                cat "$file" >> all_servers.txt
+                echo "" >> all_servers.txt
+              fi
+            done
           fi
-          COUNTER=$(cat "$COUNTER_FILE")
-          echo "Current counter: $COUNTER"
-
-          if [ "$COUNTER" -eq 0 ] || [ "$COUNTER" -eq 1 ]; then
-            echo "token=${{ secrets.GH_TOKEN }}" >> $GITHUB_OUTPUT
-            echo "Using Classic token (counter $COUNTER)"
-          else
-            echo "token=${{ steps.app-token.outputs.token }}" >> $GITHUB_OUTPUT
-            echo "Using GitHub App token (counter $COUNTER)"
-          fi
-
-          NEXT=$(( (COUNTER + 1) % 4 ))
-          echo "$NEXT" > "$COUNTER_FILE"
-
-      - name: Run collector
-        env:
-          GITHUB_TOKEN: ${{ steps.select-token.outputs.token }}
-          RUN_MODE: frequent
-          MAX_AGE_HOURS: 0.5
-        run: python src/collector_git.py
+          echo "✅ Total lines: $(wc -l < all_servers.txt)"
 
       - name: Split joined proxy links
         run: |
@@ -78,38 +51,19 @@ jobs:
             python src/dedup_configs.py all_servers.txt
           fi
 
-      - name: Rebuild protocol files from cleaned all_servers.txt
+      - name: Rebuild protocol files
         run: python src/rebuild_protocols.py
 
       - name: Commit and push updated files
-        timeout-minutes: 5
-        continue-on-error: true
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          # ساخت پوشه‌های ضروری اگر وجود ندارند
           mkdir -p servers data
-          # اطمینان از وجود all_servers.txt
           touch all_servers.txt
-          # افزودن فایل‌ها (حتی untrackedها)
           git add -A all_servers.txt servers/ data/ 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "🔄 Update all servers [skip ci]"
-            git pull --rebase --strategy-option ours
+            git commit -m "🔄 Update configs from ConfigsHUB [skip ci]"
             git push
           fi
-
-      - name: Trigger next run
-        if: success()
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GH_TOKEN }}
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              workflow_id: 'collector.yml',
-              ref: 'main'
-            });
