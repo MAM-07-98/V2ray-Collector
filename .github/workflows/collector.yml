@@ -47,10 +47,10 @@ jobs:
               conn.close()
               raise SystemExit(0)
 
-          # نگهداری فقط ۵۰۰ کانفیگ آخر در DB (جلوگیری از رشد بی‌رویه)
+          # prune: فقط ۵۰۰ رکورد آخر در DB بماند (بر اساس rowid)
           conn.execute(
-              'DELETE FROM configs WHERE id NOT IN '
-              '(SELECT id FROM configs ORDER BY rowid DESC LIMIT 500)'
+              'DELETE FROM configs WHERE rowid NOT IN '
+              '(SELECT rowid FROM configs ORDER BY rowid DESC LIMIT 500)'
           )
           conn.commit()
           conn.close()
