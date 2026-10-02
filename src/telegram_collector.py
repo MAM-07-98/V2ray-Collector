@@ -40,11 +40,16 @@ def clean(raw):
     return c.replace("&amp;", "&")
 
 def extract(page):
-    # ۱) اول تگ‌های HTML را حذف کن (مثل <i class="emoji">🇩🇪</i>)
-    text = re.sub(r'<[^>]+>', '', page)
-    # ۲) حالا HTML entities را decode کن
+    # ۱) <br> → newline
+    text = re.sub(r'<br\s*/?>', '\n', page, flags=re.IGNORECASE)
+    # ۲) تگ‌های <a>...</a> را با فاصله جایگزین کن
+    #    تا لینک و متن بعدش به هم نچسبند
+    text = re.sub(r'</?a\b[^>]*>', ' ', text, flags=re.IGNORECASE)
+    # ۳) بقیه‌ی تگ‌ها را حذف کن (مثل <i class="emoji">🏁</i> → 🏁)
+    text = re.sub(r'<[^>]+>', '', text)
+    # ۴) HTML entities را decode کن
     decoded = html.unescape(text)
-    # ۳) حالا regex
+    # ۵) حالا regex
     seen, out = set(), []
     for raw in PATTERN.findall(decoded):
         c = clean(raw)
@@ -52,7 +57,6 @@ def extract(page):
             seen.add(c)
             out.append(c)
     return out
-
 def fetch(ch, before=None):
     url = f"https://t.me/s/{ch}" + (f"?before={before}" if before else "")
     try:
