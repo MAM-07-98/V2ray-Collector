@@ -23,9 +23,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r config/requirements.txt
 
-      - name: Reset DB before collecting
-        run: rm -f collector.db
-
       - name: Run Telegram Collector
         run: python src/telegram_collector.py
 
@@ -34,18 +31,31 @@ jobs:
           python - <<'PY'
           import sqlite3, os
 
+          # اگر دیتابیس نبود، فایل قبلی را دست نزن
           if not os.path.exists('collector.db'):
-              print('⚠️ collector.db not found, writing empty file')
-              open('all_servers.txt', 'w').close()
+              print('⚠️ collector.db not found — keeping existing all_servers.txt')
               raise SystemExit(0)
 
           conn = sqlite3.connect('collector.db')
           rows = conn.execute(
               'SELECT config FROM configs ORDER BY rowid DESC LIMIT 50'
           ).fetchall()
+
+          # اگر دیتابیس خالی بود، فایل قبلی را دست نزن
+          if not rows:
+              print('⚠️ No configs in DB — keeping existing all_servers.txt')
+              conn.close()
+              raise SystemExit(0)
+
+          # نگهداری فقط ۵۰۰ کانفیگ آخر در DB (جلوگیری از رشد بی‌رویه)
+          conn.execute(
+              'DELETE FROM configs WHERE id NOT IN '
+              '(SELECT id FROM configs ORDER BY rowid DESC LIMIT 500)'
+          )
+          conn.commit()
           conn.close()
 
-          # حالت 'w' فایل را کامل پاک می‌کند و از صفر می‌نویسد
+          # نوشتن ۵۰ کانفیگ آخر در all_servers.txt (mode 'w' = overwrite)
           with open('all_servers.txt', 'w', encoding='utf-8') as f:
               for (cfg,) in rows:
                   cfg = (cfg or '').strip()
@@ -67,7 +77,7 @@ jobs:
           git config user.email "actions@github.com"
           mkdir -p servers data
           touch all_servers.txt
-          git add -A all_servers.txt servers/ data/ 2>/dev/null || true
+          git add -A all_servers.txt servers/ data/ collector.db 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
