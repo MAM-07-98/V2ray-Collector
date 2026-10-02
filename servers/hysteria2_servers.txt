@@ -1,2 +1,1 @@
 hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?security=tls&insecure=0&sni=api-test-udp-traffic.kaneki.cfd#@MigMigVPNSHOP
-hysteria2://vN1VQF6w2zHxSokgJcaUyUL52yRMzUB7@fastly.vexogf.ir:5443?sni=tun-a-1.bexait.ir&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=6ccfcef2e116b03ce9047333#%7C%20%40ArsalanVPN1_bot%20%7C
