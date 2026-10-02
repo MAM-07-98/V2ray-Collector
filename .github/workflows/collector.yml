@@ -23,6 +23,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r config/requirements.txt
 
+      - name: Reset DB before collecting
+        run: rm -f collector.db
+
       - name: Run Telegram Collector
         run: python src/telegram_collector.py
 
@@ -31,14 +34,12 @@ jobs:
           python - <<'PY'
           import sqlite3, os
 
-          db = 'collector.db'
-          if not os.path.exists(db):
-              print('⚠️ collector.db not found')
+          if not os.path.exists('collector.db'):
+              print('⚠️ collector.db not found, writing empty file')
               open('all_servers.txt', 'w').close()
               raise SystemExit(0)
 
-          conn = sqlite3.connect(db)
-          # ۵۰ کانفیگ آخر بر اساس rowid (آخرین ورودی‌ها)
+          conn = sqlite3.connect('collector.db')
           rows = conn.execute(
               'SELECT config FROM configs ORDER BY rowid DESC LIMIT 50'
           ).fetchall()
@@ -78,7 +79,7 @@ jobs:
           git config user.email "actions@github.com"
           mkdir -p servers data
           touch all_servers.txt
-          git add -A all_servers.txt servers/ data/ collector.db 2>/dev/null || true
+          git add -A all_servers.txt servers/ data/ 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
