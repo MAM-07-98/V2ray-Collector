@@ -26,7 +26,7 @@ jobs:
       - name: Run Telegram Collector
         run: python src/telegram_collector.py
 
-      - name: Export last 50 configs to all_servers.txt
+      - name: Export last 120 configs to all_servers.txt
         run: |
           python - <<'PY'
           import sqlite3, os
@@ -38,7 +38,7 @@ jobs:
 
           conn = sqlite3.connect('collector.db')
           rows = conn.execute(
-              'SELECT config FROM configs ORDER BY rowid DESC LIMIT 50'
+              'SELECT config FROM configs ORDER BY rowid DESC LIMIT 120'
           ).fetchall()
 
           # اگر دیتابیس خالی بود، فایل قبلی را دست نزن
