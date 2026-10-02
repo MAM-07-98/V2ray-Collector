@@ -17,6 +17,18 @@ PATTERN = re.compile(r"(?:" + PROTOS + r")://[^\s\"'<>\\\n\r]+", re.IGNORECASE)
 def init_db(p):
     c = sqlite3.connect(p)
     c.execute("CREATE TABLE IF NOT EXISTS configs(id INTEGER PRIMARY KEY AUTOINCREMENT, config TEXT NOT NULL UNIQUE, source TEXT, added_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP)")
+    # migration: اگر جدول قدیمی بود و ستون‌ها را نداشت، اضافه کن
+    cols = [row[1] for row in c.execute("PRAGMA table_info(configs)")]
+    if "source" not in cols:
+        try:
+            c.execute("ALTER TABLE configs ADD COLUMN source TEXT")
+        except sqlite3.OperationalError:
+            pass
+    if "added_at" not in cols:
+        try:
+            c.execute("ALTER TABLE configs ADD COLUMN added_at TIMESTAMP")
+        except sqlite3.OperationalError:
+            pass
     c.commit()
     return c
 
@@ -28,7 +40,7 @@ def clean(raw):
     return c.replace("&amp;", "&")
 
 def extract(page):
-    decoded = html.unescape(page)  # نکته‌ی کلیدی
+    decoded = html.unescape(page)
     seen, out = set(), []
     for raw in PATTERN.findall(decoded):
         c = clean(raw)
