@@ -55,18 +55,6 @@ jobs:
           print(f'✅ Wrote {len(rows)} configs (last 50) to all_servers.txt')
           PY
 
-      - name: Split joined proxy links
-        run: |
-          if [ -s all_servers.txt ]; then
-            python src/split_links.py all_servers.txt
-          fi
-
-      - name: Advanced dedup configs
-        run: |
-          if [ -s all_servers.txt ]; then
-            python src/dedup_configs.py all_servers.txt
-          fi
-
       - name: Clean servers/ and rebuild protocol files
         run: |
           rm -rf servers
