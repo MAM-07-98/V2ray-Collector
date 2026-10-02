@@ -26,33 +26,51 @@ jobs:
       - name: Run Telegram Collector
         run: python src/telegram_collector.py
 
-      - name: Merge all configs into all_servers.txt
+      - name: Export last 50 configs to all_servers.txt
         run: |
-          > all_servers.txt
-          if [ -d "servers" ]; then
-            for file in servers/*; do
-              if [ -f "$file" ]; then
-                cat "$file" >> all_servers.txt
-                echo "" >> all_servers.txt
-              fi
-            done
-          fi
-          echo "✅ Total lines: $(wc -l < all_servers.txt)"
+          python - <<'PY'
+          import sqlite3, os
+
+          db = 'collector.db'
+          if not os.path.exists(db):
+              print('⚠️ collector.db not found')
+              open('all_servers.txt', 'w').close()
+              raise SystemExit(0)
+
+          conn = sqlite3.connect(db)
+          # ۵۰ کانفیگ آخر بر اساس rowid (آخرین ورودی‌ها)
+          rows = conn.execute(
+              'SELECT config FROM configs ORDER BY rowid DESC LIMIT 50'
+          ).fetchall()
+          conn.close()
+
+          # حالت 'w' فایل را کامل پاک می‌کند و از صفر می‌نویسد
+          with open('all_servers.txt', 'w', encoding='utf-8') as f:
+              for (cfg,) in rows:
+                  cfg = (cfg or '').strip()
+                  if cfg:
+                      f.write(cfg + '\n')
+
+          print(f'✅ Wrote {len(rows)} configs (last 50) to all_servers.txt')
+          PY
 
       - name: Split joined proxy links
         run: |
-          if [ -f all_servers.txt ]; then
+          if [ -s all_servers.txt ]; then
             python src/split_links.py all_servers.txt
           fi
 
       - name: Advanced dedup configs
         run: |
-          if [ -f all_servers.txt ]; then
+          if [ -s all_servers.txt ]; then
             python src/dedup_configs.py all_servers.txt
           fi
 
-      - name: Rebuild protocol files
-        run: python src/rebuild_protocols.py
+      - name: Clean servers/ and rebuild protocol files
+        run: |
+          rm -rf servers
+          mkdir -p servers
+          python src/rebuild_protocols.py
 
       - name: Commit and push updated files
         run: |
@@ -60,10 +78,10 @@ jobs:
           git config user.email "actions@github.com"
           mkdir -p servers data
           touch all_servers.txt
-          git add -A all_servers.txt servers/ data/ 2>/dev/null || true
+          git add -A all_servers.txt servers/ data/ collector.db 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "🔄 Update configs from ConfigsHUB [skip ci]"
+            git commit -m "🔄 Update configs from ConfigsHUB (last 50) [skip ci]"
             git push
           fi
