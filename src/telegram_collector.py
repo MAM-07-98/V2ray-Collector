@@ -40,7 +40,11 @@ def clean(raw):
     return c.replace("&amp;", "&")
 
 def extract(page):
-    decoded = html.unescape(page)
+    # ۱) اول تگ‌های HTML را حذف کن (مثل <i class="emoji">🇩🇪</i>)
+    text = re.sub(r'<[^>]+>', '', page)
+    # ۲) حالا HTML entities را decode کن
+    decoded = html.unescape(text)
+    # ۳) حالا regex
     seen, out = set(), []
     for raw in PATTERN.findall(decoded):
         c = clean(raw)
