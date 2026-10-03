@@ -1,5 +1,4 @@
 trojan://_SYk3tZo0C9V_QADsfuF2wp2a47ax_3W@87.242.94.237:2443?fm=AhmadV2ray&sni=yarik.cishosts.org&insecure=0&type=tcp&headerType=none&allowInsecure=0&alpn=h2%2Chttp%2F1.1&fp=firefox&security=tls#[🇷🇺]t.me/ConfigsHub
-trojan://b16a661864984131a32ceb231869df51@mhzedir.qzz.io:49210?security=reality&sni=gtmetrix.com&fp=chrome&pbk=Q8niJeWw3hX4MHYZNbsIwd4NSQEMvHjch54pBxM5CDY&sid=c9908a0a4ef02102&spx=%2Ffed2d5835856639&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 trojan://h3ilje76tkhrajug@172.67.182.229:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=nl1.xnetaro.ir#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@104.26.14.137:443?security=tls#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
