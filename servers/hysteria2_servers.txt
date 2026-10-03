@@ -1,1 +1,0 @@
-hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015/?sni=api-test-udp-traffic.kaneki.cfd#%F0%9F%AA%9937@oneclickvpnkeys
