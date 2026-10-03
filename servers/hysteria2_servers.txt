@@ -1,5 +1,4 @@
 hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@144.31.232.216:443/?sni=fi01.clgate.network#%F0%9F%8C%9F39@oneclickvpnkeys
-hysteria2://17537e14543a478b9c7a558870d814f3@mhzedir.qzz.io:51791?security=tls&obfs=salamander&obfs-password=7y0p9k93w7ryw8tz&insecure=0&sni=mhzedir.qzz.io#%F0%9F%87%B3%F0%9F%87%B1186400%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.141:8443/?sni=hop-germany-september.dynuddns.com#%F0%9F%87%A8%F0%9F%87%BF186448%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.143:8443/?insecure=1&sni=hop-germany-september.dynuddns.com#%F0%9F%87%A8%F0%9F%87%BF186444%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.144:8443/?insecure=1&sni=hop-germany-september.dynuddns.com#%F0%9F%87%A8%F0%9F%87%BF186442%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
