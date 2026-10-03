@@ -4,10 +4,8 @@ ss://6006efbc-2751-44c5-8789-d38304d4303a@ico.org.uk:2087?flow=&type=ws&host=&pa
 ss://64bc8910-bc0f-453e-b3f3-a101a5dce03e@51.250.73.31:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=87cc0414902bee2d#[🇷🇺]t.me/ConfigsHub
 ss://64bc8910-bc0f-453e-b3f3-a101a5dce03e@51.250.75.158:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=43df3983229a1c73#[🇷🇺]t.me/ConfigsHub
 ss://669be00c-67b4-4b87-b08f-311c45abced2@third-legend.atlanta-internet.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=static.rutube.ru&fp=chrome&pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&sid=ffffffffff&type=tcp&headerType=none#[🇷🇺]t.me/ConfigsHub
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206SUwvN0ovQ2M1elFwSnZwQVAwWlZrQT09OlkvWXpiNk5lV0E2ZWxlZk9YTkk0bVE9PQ==@rel.pasmazy.ir:8080#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNFotaWt5dVdDMEQ5MjZyWndiVGhn@p2tun3.greewebservices.ir:1030#[🇮🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#[🇯🇵]t.me/ConfigsHub
