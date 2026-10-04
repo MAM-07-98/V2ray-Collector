@@ -1,14 +1,11 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZkduS2dQOGs4RUhGdXZq@20.107.219.181:443#[🇮🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZkduS2dQOGs4RUhGdXZq@20.107.219.181:443?#[🇮🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZkduS2dQOGs4RUhGdXZq@20.107.219.181:443?type=tcp&headerType=none#[🇮🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aGhJVDZLVWpQa25YMmlfd3BZbzBxcms4VDQ4UzUxbQ@deals1.selqora.ir:51595#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Tk45QmRzUWhmei0tcmpLX0NmN3JQa1hTalJ4SDJwaA%3D%3D@sandwiches.pizzaitaliano.ir:1080#[🇮🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?type=tcp&headerType=none#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWIza1FiWUNicUJXUzNYU0lpUkE4WF90WGNUMVZyVg@31.77.172.78:8443?#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWIza1FiWUNicUJXUzNYU0lpUkE4WF90WGNUMVZyVg@api.zedmobile.org:8443?#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWIza1FiWUNicUJXUzNYU0lpUkE4WF90WGNUMVZyVg@cloub.zedmobile.org:8443?#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWIza1FiWUNicUJXUzNYU0lpUkE4WF90WGNUMVZyVg@gorpix.zedmobile.org:8443?#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWIza1FiWUNicUJXUzNYU0lpUkE4WF90WGNUMVZyVg@vinted.zedmobile.org:8443?#[🇫🇮]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206NTBjZTJhYzE3N2Q4ZDhjZGFkNmI0YTY4NzM5ZTJlYTA@66.23.202.50:13623#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.210:16995#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA%3D%3D@138.199.48.82:9443#[🇨🇦]t.me/ConfigsHub
