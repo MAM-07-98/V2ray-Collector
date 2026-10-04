@@ -1,0 +1,1 @@
+hysteria2://6eqxabxroyjcxiuj@94.184.33.86:6066?alpn=h3&obfs=salamander&obfs-password=jro7ipblcrb00ft9&security=tls&sni=pannelman.pannelman.ir#%F0%9F%87%AE%F0%9F%87%B7186973%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
