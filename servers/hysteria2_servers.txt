@@ -1,2 +1,0 @@
-hysteria2://6eqxabxroyjcxiuj@94.184.33.86:6066?alpn=h3&obfs=salamander&obfs-password=jro7ipblcrb00ft9&security=tls&sni=pannelman.pannelman.ir#%F0%9F%87%AE%F0%9F%87%B7186973%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21000-21199,33000-33199/?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#%F0%9F%A6%9C15@oneclickvpnkeys
