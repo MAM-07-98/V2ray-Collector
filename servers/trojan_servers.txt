@@ -1,6 +1,4 @@
-trojan://UX82473651@desired-boxer.rooster465.autos:443?allowInsecure=1#[🇸🇬]t.me/ConfigsHub
-trojan://UX82473651@glowing-marmoset.rooster465.autos:443?allowInsecure=1#[🇸🇬]t.me/ConfigsHub
-trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1#[🇸🇬]t.me/ConfigsHub
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?allowInsecure=1&sni=d3-de2.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=ajv#[🇩🇪]t.me/ConfigsHub
 trojan://mitivpn@167.82.76.27:443?path=%40V2ray_AM&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@167.82.76.7:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@167.82.76.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
@@ -10,3 +8,4 @@ trojan://mitivpn@167.82.76.7:443?security=tls&host=mitivpn---deb--s---mitivpn-4.
 trojan://mitivpn@199.232.78.101:443?path=%40V2ray_AM&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@199.232.78.160:443?path=%40V2ray_AM&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=1&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@199.232.78.160:443?security=tls&alpn=http%2F1.1&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
+trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@47.240.80.220:2052?allowInsecure=1&sni=vpn.12169.top#[🇴🇳]t.me/ConfigsHub
