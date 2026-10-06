@@ -1,0 +1,2 @@
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&security=tls&sni=vpn-fr-001.fastervpn.world#[🇫🇷]t.me/ConfigsHub
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.38.44.64:443?insecure=1&sni=off#[🇫🇷]t.me/ConfigsHub
