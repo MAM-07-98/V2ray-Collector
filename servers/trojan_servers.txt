@@ -1,6 +1,5 @@
 trojan://50414e45-4c5f-5a45-5553-8b0dc2403da1@104.25.72.179:443?path=%2Fstream%2FPANEL_ZEUS%2F8b0dc2403da1%2Floc-1&security=tls&insecure=0&host=qozt0re1uohs.gaz0rnesu0es.workers.dev&type=ws&allowInsecure=0&sni=qozt0re1uohs.gaz0rnesu0es.workers.dev#[🇨🇦]t.me/ConfigsHub
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#[🇵🇱]t.me/ConfigsHub
-trojan://MiTiVPN@199.232.78.160:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@de.zhabulik.ru:443?security=tls&sni=de.zhabulik.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#[🇫🇮]t.me/ConfigsHub
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@nl.zhabulik.ru:443?security=tls&sni=nl.zhabulik.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#[🇷🇦]t.me/ConfigsHub
