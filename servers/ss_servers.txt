@@ -9,5 +9,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIMGd0T1prcnFyYWxkcmhN@20.123.11.204:443#[�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIMGd0T1prcnFyYWxkcmhN@20.123.11.204:443?#[🇮🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNlVxQWI0MTMweWNNN3FN@20.164.212.146:443#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNlVxQWI0MTMweWNNN3FN@20.164.212.146:443?#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.237.215.103:443#[🇫🇷]t.me/ConfigsHub
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dFgyUTJta2xaWg@91.107.179.208:49152?type=tcp#[🇩🇪]t.me/ConfigsHub
