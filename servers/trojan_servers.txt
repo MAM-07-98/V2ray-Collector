@@ -7,4 +7,4 @@ trojan://UX82473651@loved-shark.rooster465.autos:443?mux=1&allowInsecure=1&sni=l
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?mux=1&allowInsecure=1&sni=sacred-anemone.rooster465.autos#[🇮🇪]t.me/ConfigsHub
 trojan://humanity@104.16.6.70:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#[🇨🇦]t.me/ConfigsHub
-trojan://mitivpn@167.82.76.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
+trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
