@@ -1,8 +1,6 @@
 ss://%40Cooonfig%40@46.225.255.204:39100?security=none&encryption=none&host=play.google.com&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206aFBnSVpGM0RTZHZSMXVHUGhab2hCdz09Okx6dmc3bnVHRE9JcXNvNjg1NTNlTlE9PQ@usina.color-shop.ir:1080#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDU0ZjA1OTAzNmMzZmYxZTkwN2FlYjUxMzc3YjJhYzU0ZTYxY2ViNjY2MjI2ZmQ@45.76.9.57:8389#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTTZ5UXUyVDhBbVpHZkppa2pNMTV1YTVGTzZCRW9LRA@31.56.196.126:1080#[🇱🇻]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTTZ5UXUyVDhBbVpHZkppa2pNMTV1YTVGTzZCRW9LRA@Cfex.vipnetx.ir:1080#[🇱🇻]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5d25xd29ueUsxTFJHd0ppYkZRMGFN@130.49.189.158:10792#[🇦🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNFotaWt5dVdDMEQ5MjZyWndiVGhn@p2tun3.greewebservices.ir:1030#[🇮🇷]t.me/ConfigsHub
