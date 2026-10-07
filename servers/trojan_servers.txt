@@ -1,12 +1,12 @@
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?security=tls&sni=id1.nathaya.web.id&type=ws&path=/trojan&Host=id1.nathaya.web.id#[🇨🇦]t.me/ConfigsHub
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#[🇦🇺]t.me/ConfigsHub
-trojan://2e631f0c-226a-484b-9e7c-d6c9c444ef13@51.68.164.10:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fmwf6gbnad0a.dop16.com#[🇩🇪]t.me/ConfigsHub
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#[🇨🇦]t.me/ConfigsHub
 trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#[🏁]t.me/ConfigsHub
+trojan://MiTiVPN@151.101.56.101:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr&Host=syndication-statutes-wanted-logo.trycloudflare.com#[🇨🇦]t.me/ConfigsHub
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#[🇦🇺]t.me/ConfigsHub
-trojan://eabf1999fefbb7d2@waysi.waysi6688.workers.dev:2087?path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&security=tls&alpn=http%2F1.1&insecure=0&host=waysi.waysi6688.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=WaYSi.wAYsI6688.WOrkeRS.deV#[🏁]t.me/ConfigsHub
 trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
+trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#[🏁]t.me/ConfigsHub
 trojan://humanity@141.193.213.172:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment#[🏁]t.me/ConfigsHub
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[🇦🇹]t.me/ConfigsHub
