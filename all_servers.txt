@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTkwzbXhkZlpLaVBLaXpM@20.223.236.165:443#[🇮🇪]t.me/ConfigsHub
+vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@cash.qelzino.ir:443?encryption=none&security=tls&sni=play.google.com&fp=firefox&insecure=1&allowInsecure=1&type=ws&host=google.com&path=%2F#[🏁]t.me/ConfigsHub
+trojan://humanity@141.193.213.172:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🏁]t.me/ConfigsHub
 vless://cfdf593f-cb6b-e446-72f9-3017803c2230@faultpass-newpanel-production.up.railway.app:443?encryption=none&security=tls&sni=faultpass-newpanel-production.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/cfdf593f-cb6b-e446-72f9-3017803c2230&host=faultpass-newpanel-production.up.railway.app#[🏁]t.me/ConfigsHub
 trojan://MiTiVPN@199.232.78.188:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 vless://e3fb01b6-69b4-41d7-babf-696d992de194@172.67.181.232:2052?path=%2F%40BlueKnight_net--%40BlueKnight_net%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -115,6 +118,3 @@ vless://e4207db9-5e71-4706-9484-a72e4fd033a9@fast.jkerm.com:443?path=%2F&securit
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#[🇨🇦]t.me/ConfigsHub
-vless://add20f51-e59d-f23c-29cd-52f079e4896e@faultpass-newpanel-production.up.railway.app:443?encryption=none&security=tls&sni=faultpass-newpanel-production.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/add20f51-e59d-f23c-29cd-52f079e4896e&host=faultpass-newpanel-production.up.railway.app#[🏁]t.me/ConfigsHub
-vless://e4207db9-5e71-4706-9484-a72e4fd033a9@199.232.9.254:443?path=%2F&security=tls&encryption=none&insecure=0&host=finliijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=global.fastly.com#[🏁]t.me/ConfigsHub
-vless://fe75304a-2e17-4eae-b5ce-05b39aff83b2@95.38.233.100:28110?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
