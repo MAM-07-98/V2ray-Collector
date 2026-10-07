@@ -1,3 +1,0 @@
-hysteria2://8d1729b01c1ad743179ed4558c8404b0@193.42.11.245:8397?alpn=h3%2Ch2%2Chttp%2F1.1&obfs=salamander&obfs-password=1vwbgf5t1k61nxmi&security=tls&sni=193.42.11.245#%F0%9F%87%A9%F0%9F%87%AA189465%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://8d1729b01c1ad743179ed4558c8404b0@193.42.11.245:8397?alpn=h3%2Ch2%2Chttp%2F1.1&obfs=salamander&obfs-password=1vwbgf5t1k61nxmi&security=tls&sni=193.42.11.245#German%2C%20hysteria%20%F0%9F%87%A9%F0%9F%87%AA%20m
-hysteria2://b967bc328fcf453f18d46518f486283b@193.42.11.245:8397?security=tls&obfs=salamander&obfs-password=1vwbgf5t1k61nxmi&insecure=0&sni=193.42.11.245#%E2%AD%90%40lion_lion_vpn%E2%AD%90
