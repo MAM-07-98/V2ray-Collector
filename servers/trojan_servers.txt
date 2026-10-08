@@ -5,11 +5,11 @@ trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls#[�
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#[🇨🇦]t.me/ConfigsHub
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#[🇯🇵]t.me/ConfigsHub
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#[🇯🇵]t.me/ConfigsHub
+trojan://UX82473651@18.176.61.69:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=intense-sole.rooster465.autos#[🇯🇵]t.me/ConfigsHub
 trojan://UX82473651@3.34.131.153:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pretty-rat.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@3.35.207.188:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#[🏁]t.me/ConfigsHub
+trojan://UX82473651@34.220.15.24:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=guided-ferret.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@43.201.100.203:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=optimum-snapper.rooster465.autos#[🏁]t.me/ConfigsHub
+trojan://UX82473651@54.249.55.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=prime-corgi.rooster465.autos#[🇯🇵]t.me/ConfigsHub
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#[🇩🇪]t.me/ConfigsHub
-trojan://mitivpn@146.75.57.238:443?security=tls&sni=ssl-mitivpn.fastly.com&fp=chrome&alpn=http%2F1.1&type=ws&host=mitivpn-4--vip.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#[🏁]t.me/ConfigsHub
-trojan://mitivpn@151.101.38.7:443?security=tls&sni=jjl.fastly.com&fp=chrome&alpn=http%2F1.1&type=ws&host=mitivpn--vip.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#[🏁]t.me/ConfigsHub
-trojan://mitivpn@167.82.76.27:443?security=tls&sni=mitivpn-mitivpn.fastly.com&fp=chrome&alpn=http%2F1.1&type=ws&host=mitivpn-3--vip.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#[🏁]t.me/ConfigsHub
 trojan://xxoo@138.124.183.216:443?security=tls#[🇪🇪]t.me/ConfigsHub
