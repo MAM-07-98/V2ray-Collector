@@ -2,8 +2,10 @@ ss://2022-blake3-aes-128-gcm:4ju6nGCdR%2Fx9tFN85ImeVg%3D%3D%3AaoULtGpYuYN2W5MnGw
 ss://2022-blake3-aes-256-gcm:VXm5%2FP7r0FRKxEWRcJcCFXfD1QhzjXtPFmYpnmBFlrA%3D%3A62CMS%2BqB6RTA%2BqIJxiz3pVEHYu2A7tpfoQcgf4GqtQg%3D@5.75.204.152:53332#[🇩🇪]t.me/ConfigsHub
 ss://2022-blake3-chacha20-poly1305:3NBsnBLanPfG6i3S2GTHineswr6EeSJPb0PCeMQoGoA%3D@47.85.168.157:443#[🏁]t.me/ConfigsHub
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M05Cc25CTGFuUGZHNmkzUzJHVEhpbmVzd3I2RWVTSlBiMFBDZU1Rb0dvQT0@47.85.168.157:443#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNlVxQWI0MTMweWNNN3FN@20.164.212.146:443#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRkZhRHlXWW02Qy1mazZ3R1E4Mkdn@89.167.109.177:888#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206SkM3eFFlckMyNGJ4ZXZwRVBTc0FUWjVNUXRxbld5WjI=@a344.noirex.ir:34614#[🇪🇸]t.me/ConfigsHub
 ss://chacha20-ietf-poly1305:oFFaDyWYm6C-fk6wGQ82Gg@89.167.109.177:888#[🇩🇪]t.me/ConfigsHub
 ss://chacha20-ietf-poly1305:y7KeRTzmH0vXT2kp@c3.nastuh.link:443#[🇳🇱]t.me/ConfigsHub

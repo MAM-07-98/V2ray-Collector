@@ -1,4 +1,1 @@
 hysteria2://cc4074d6-f450-4025-833a-a6e0100ceaff@138.124.254.233:443?security=tls&insecure=0&sni=crt.molniya.sbs#%F0%9F%87%B7%F0%9F%87%BA190020%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://cc4074d6-f450-4025-833a-a6e0100ceaff@31.76.107.12:443?security=tls&insecure=0&sni=crt.molniya.sbs#%F0%9F%87%AA%F0%9F%87%AA190019%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://cc4074d6-f450-4025-833a-a6e0100ceaff@45.88.12.155:443?security=tls&insecure=0&sni=crt.molniya.sbs#%F0%9F%87%A9%F0%9F%87%AA190017%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://cc4074d6-f450-4025-833a-a6e0100ceaff@65.108.67.45:443?security=tls&insecure=0&sni=crt.molniya.sbs#%F0%9F%87%AB%F0%9F%87%AE190018%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
