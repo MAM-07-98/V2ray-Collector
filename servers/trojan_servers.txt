@@ -1,3 +1,4 @@
+trojan://Trojan%4082164024@ie.tronsg.com:443?security=tls&sni=ie.tronsg.com&type=tcp&headerType=none#[🇮🇪]t.me/ConfigsHub
 trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=android&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=ios&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
