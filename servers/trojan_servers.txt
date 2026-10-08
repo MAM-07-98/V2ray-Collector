@@ -1,7 +1,8 @@
-trojan://UX82473651@3.39.225.215:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#[🏁]t.me/ConfigsHub
-trojan://UX82473651@52.221.220.227:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pet-antelope.rooster465.autos#[🇸🇬]t.me/ConfigsHub
+trojan://123456@#[🇩🇪]t.me/ConfigsHub
+trojan://123456@104.16.246.173:443?security=tls&sni=now-pages-sub-em4.pages.dev&alpn=h3&fp=random&type=ws&host=now-pages-sub-em4.pages.dev&path=%2F%3Fed%3D2560&fragment=1%2C40-60%2C30-50%2Ctlshello#[🇨🇦]t.me/ConfigsHub
+trojan://123456@162.159.152.81:443?security=tls&sni=now-pages-sub-em4.pages.dev&alpn=h3&fp=random&type=ws&host=now-pages-sub-em4.pages.dev&path=%2F%3Fed%3D2560&fragment=1%2C40-60%2C30-50%2Ctlshello#[🇨🇦]t.me/ConfigsHub
 trojan://UX82473651@56.10.9.77:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=inviting-ferret.rooster465.autos#[🇸🇬]t.me/ConfigsHub
-trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=integral-rodent.rooster465.autos#[🇯🇵]t.me/ConfigsHub
+trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-terrier.rooster465.autos#[🇯🇵]t.me/ConfigsHub
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
 trojan://mitivpn@151.101.38.7:443?fp=chrome&insecure=1&sni=jjl.fastly.com&type=ws&security=tls&alpn=http%2F1.1&allowInsecure=1&path=%40V2ray_AM&host=mitivpn--vip.global.ssl.fastly.net#[🏁]t.me/ConfigsHub
 trojan://mitivpn@151.101.38.7:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=jjl.fastly.com#[🏁]t.me/ConfigsHub
