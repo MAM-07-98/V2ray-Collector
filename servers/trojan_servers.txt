@@ -8,3 +8,4 @@ trojan://mitivpn@151.101.38.7:443?path=%40V2ray_AM&security=tls&alpn=http%2F1.1&
 trojan://mitivpn@151.101.38.7:443?security=tls&alpn=http%2F1.1&host=mitivpn--vip.global.ssl.fastly.net&fp=chrome&type=ws&sni=jjl.fastly.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@199.232.78.160:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-2--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.fastly.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@199.232.78.160:443?path=%40V2ray_AM&security=tls&alpn=http%2F1.1&host=mitivpn-2--vip.global.ssl.fastly.net&fp=chrome&type=ws&sni=mitivpn.fastly.com#[🏁]t.me/ConfigsHub
+trojan://mitivpn@199.232.78.160:443?path=%40V2ray_AM&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-2--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.fastly.com#[🏁]t.me/ConfigsHub
