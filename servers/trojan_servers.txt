@@ -1,11 +1,8 @@
-trojan://62CMS%2BqB6RTA%2BqIJxiz3pVEHYu2A7tpfoQcgf4GqtQg%3D@5.75.204.152:10532?headerType=http&host=https%3A%2F%2Fwww.speedtest.net&path=%2F&security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://UX82473651@3.39.225.215:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@52.221.220.227:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pet-antelope.rooster465.autos#[🇸🇬]t.me/ConfigsHub
+trojan://UX82473651@56.10.9.77:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=inviting-ferret.rooster465.autos#[🇸🇬]t.me/ConfigsHub
 trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=integral-rodent.rooster465.autos#[🇯🇵]t.me/ConfigsHub
-trojan://humanity@162.159.91.211:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇩🇪]t.me/ConfigsHub
-trojan://humanity@88.99.189.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇩🇪]t.me/ConfigsHub
-trojan://mitivpn@146.75.57.238:443?path=%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2FNLSs---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN&security=tls&alpn=http%2F1.1&host=mitivpn-4--vip.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl-mitivpn.fastly.com#[🏁]t.me/ConfigsHub
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
 trojan://mitivpn@151.101.38.7:443?fp=chrome&insecure=1&sni=jjl.fastly.com&type=ws&security=tls&alpn=http%2F1.1&allowInsecure=1&path=%40V2ray_AM&host=mitivpn--vip.global.ssl.fastly.net#[🏁]t.me/ConfigsHub
 trojan://mitivpn@151.101.38.7:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=jjl.fastly.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@167.82.76.27:443?insecure=1&path=%40V2ray_AM&security=tls&sni=mitivpn-mitivpn.fastly.com&alpn=http%2F1.1&type=ws&fp=chrome&allowInsecure=1&host=mitivpn-3--vip.global.ssl.fastly.net#[🏁]t.me/ConfigsHub
