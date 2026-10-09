@@ -1,10 +1,9 @@
 trojan://dk8nonq63y6xqdh0@46.8.101.94:28304?mode=auto&path=%2F&security=reality&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%226%22%7D%7D&pbk=UxszYC1j1I0PXH9Tr-mcZkZOYRZFRHWqsxSs9B0g5F0&fp=chrome&spx=%2F2542dbbf3cf721a&type=xhttp&sni=www.sony.com.my&sid=019f5435#[🇷🇦]t.me/ConfigsHub
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?type=tcp&security=tls&sni=ger1.fytpn.com&fp=firefox#[🇩🇪]t.me/ConfigsHub
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?type=tcp&security=tls&sni=ger2.fytpn.com&fp=firefox#[🇩🇪]t.me/ConfigsHub
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?type=tcp&security=tls&sni=ger6.fytpn.com&fp=firefox#[🇷🇴]t.me/ConfigsHub
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@lit.fytpn.com:2097?type=tcp&security=tls&sni=lit.fytpn.com&fp=chrome#[🇱🇻]t.me/ConfigsHub
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?type=tcp&security=tls&sni=pol2.fytpn.com&fp=firefox#[🇵🇱]t.me/ConfigsHub
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@stoniy.fytpn.com:2097?type=tcp&security=tls&sni=stoniy.fytpn.com&fp=firefox#[🇪🇪]t.me/ConfigsHub
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?security=tls&sni=ger1.fytpn.com&fp=firefox&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?security=tls&sni=ger2.fytpn.com&fp=firefox&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?security=tls&sni=ger6.fytpn.com&fp=firefox&type=tcp&headerType=none#[🇷🇴]t.me/ConfigsHub
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?security=tls&sni=pol2.fytpn.com&fp=firefox&type=tcp&headerType=none#[🇵🇱]t.me/ConfigsHub
+trojan://gcn2H1x6ZLW0gwTQhGR3K2Ve_tAJ8SnR@t0nel-gr.zentharix.ir:10001?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=rs1.bdbdpqpq.shop&fp=chrome&type=ws&allowInsecure=0&sni=rs1.bdbdpqpq.shop#[🇮🇷]t.me/ConfigsHub
 trojan://mitivpn@146.75.57.238:443?path=%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2FNLSs---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN&security=tls&alpn=http%2F1.1&host=mitivpn-4--vip.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl-mitivpn.fastly.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@146.75.57.238:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-4--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl-mitivpn.fastly.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@151.101.38.7:443?path=%40V2ray_AM&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=jjl.fastly.com#[🏁]t.me/ConfigsHub
