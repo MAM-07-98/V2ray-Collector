@@ -1,4 +1,2 @@
-hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@177.1.195.242:24000?security=tls&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&insecure=0&mport=24000-24999&sni=hy.kirian.su#%F0%9F%87%A9%F0%9F%87%AA190453%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@79.137.206.157:21000?security=tls&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&insecure=0&mport=21000-21999&sni=hy.kirian.su#%F0%9F%87%AB%F0%9F%87%AE190452%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://ajr2tvlpy4nkddrx@www.duravexv.ir:51509?security=tls&obfs=salamander&obfs-password=ocs9pxjl0p8l8408&insecure=0#%40nekopingbot_3785%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%9A%A1%EF%B8%8F
 hysteria2://ajr2tvlpy4nkddrx@www.duravexv.ir:51509?security=tls&obfs=salamander&obfs-password=ocs9pxjl0p8l8408&insecure=0#%F0%9F%87%AE%F0%9F%87%B7190459%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
