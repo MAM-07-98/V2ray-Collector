@@ -1,5 +1,7 @@
 trojan://MiTiVPN@199.232.78.101:443?path=%2F--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
-trojan://dk8nonq63y6xqdh0@46.8.101.94:28304?mode=auto&path=%2F&security=reality&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%226%22%7D%7D&pbk=UxszYC1j1I0PXH9Tr-mcZkZOYRZFRHWqsxSs9B0g5F0&fp=chrome&spx=%2F2542dbbf3cf721a&type=xhttp&sni=www.sony.com.my&sid=019f5435#[🇷🇦]t.me/ConfigsHub
+trojan://ND91608427@18.179.31.199:443?security=tls#[🇯🇵]t.me/ConfigsHub
+trojan://Trojan%4082164024@gb.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gb.tronsg.com#[🏁]t.me/ConfigsHub
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@83.229.121.78:8443?security=tls#[🇸🇬]t.me/ConfigsHub
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?security=tls&sni=ger1.fytpn.com&fp=firefox&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?security=tls&sni=ger2.fytpn.com&fp=firefox&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?security=tls&sni=ger6.fytpn.com&fp=firefox&type=tcp&headerType=none#[🇷🇴]t.me/ConfigsHub
