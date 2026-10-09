@@ -10,9 +10,14 @@ trojan://GGLKnjEZrgwcV477UfgP6PMqjeZNAGfR@novosibirsk.gosgenarchive.com:448?type
 trojan://GGLKnjEZrgwcV477UfgP6PMqjeZNAGfR@saratov.gosgenarchive.com:448?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=saratov.gosgenarchive.com&security=tls&sni=saratov.gosgenarchive.com&fp=firefox&alpn=h2#[🇫🇮]t.me/ConfigsHub
 trojan://GGLKnjEZrgwcV477UfgP6PMqjeZNAGfR@smolensk.gosgenarchive.com:448?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=smolensk.gosgenarchive.com&security=tls&sni=smolensk.gosgenarchive.com&fp=safari&alpn=h2#[🇷🇺]t.me/ConfigsHub
 trojan://GGLKnjEZrgwcV477UfgP6PMqjeZNAGfR@ulyanovsk.gosgenarchive.com:448?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=ulyanovsk.gosgenarchive.com&security=tls&sni=ulyanovsk.gosgenarchive.com&fp=safari&alpn=h2#[🇸🇪]t.me/ConfigsHub
+trojan://UX82473651@ace-liger.rooster465.autos:443?allowInsecure=1&sni=ace-liger.rooster465.autos#[🇸🇬]t.me/ConfigsHub
+trojan://UX82473651@alert-titmouse.rooster465.autos:443?allowInsecure=1&sni=alert-titmouse.rooster465.autos#[🏁]t.me/ConfigsHub
+trojan://UX82473651@glorious-lark.rooster465.autos:443?allowInsecure=1&sni=glorious-lark.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@inviting-rabbit.rooster465.autos:443?allowInsecure=1&sni=inviting-rabbit.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@live-stallion.rooster465.autos:443?allowInsecure=1&sni=live-stallion.rooster465.autos#[🇯🇵]t.me/ConfigsHub
+trojan://UX82473651@musical-mouse.rooster465.autos:443?allowInsecure=1&sni=musical-mouse.rooster465.autos#[🇸🇬]t.me/ConfigsHub
 trojan://UX82473651@pure-kodiak.rooster465.autos:443?allowInsecure=1&sni=pure-kodiak.rooster465.autos#[🏁]t.me/ConfigsHub
+trojan://UX82473651@rested-seahorse.rooster465.autos:443?allowInsecure=1&sni=rested-seahorse.rooster465.autos#[🇸🇬]t.me/ConfigsHub
 trojan://UX82473651@stable-python.rooster465.autos:443?allowInsecure=1&sni=stable-python.rooster465.autos#[🇯🇵]t.me/ConfigsHub
-trojan://humanity@104.21.33.59:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇨🇦]t.me/ConfigsHub
+trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
 trojan://sgv2ray@13.48.129.95:17000?path=%2F---%40SGV2RAY---%40SGV2RAY%2F---%40SGV2RAY---%40SGV2RAY%2F---%40SGV2RAY---%40SGV2RAY%2FNLSus---%40SGV2RAY---%40SGV2RAY%2F---%40SGV2RAY---%40SGV2RAY%2F---%40SGV2RAY---%40SGV2RAY&security=tls&insecure=0&host=13.48.129.95&fp=chrome&type=ws&allowInsecure=0&sni=13.48.129.95#[🇸🇪]t.me/ConfigsHub
