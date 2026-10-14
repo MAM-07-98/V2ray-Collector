@@ -3,7 +3,7 @@ trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&allowInsecure=1&typ
 trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇫🇮]t.me/ConfigsHub
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[🏁]t.me/ConfigsHub
 trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇲🇪]t.me/ConfigsHub
-trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
+trojan://humanity@46.62.230.149:443?host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#[🇫🇮]t.me/ConfigsHub
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@146.75.57.238:443?security=tls&sni=google.com&fp=chrome&alpn=http%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-s1.global.ssl.fastly.net&path=%2F#[🏁]t.me/ConfigsHub
 trojan://mitivpn@146.75.57.238:443?security=tls&sni=google.com&fp=chrome&alpn=http%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-s1.global.ssl.fastly.net&path=%2F%20bored_vpn#[🏁]t.me/ConfigsHub
