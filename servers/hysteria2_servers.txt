@@ -1,1 +1,5 @@
 hysteria2://033dc6b532@77.232.139.128:11592/?sni=srv-8718e6.frd21.ru#@V2ray_confiig
+hysteria2://745A6079-6A61-423D-BDD9-B344C1D26E62@sg1.dexlos.com:20133?security=tls&insecure=0&sni=sg1.dexlos.com#%F0%9F%87%B8%F0%9F%87%AC194045%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21169?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#%F0%9F%87%AB%F0%9F%87%B7194038%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21182?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#%F0%9F%87%AB%F0%9F%87%B7194033%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:33128?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#%F0%9F%87%AB%F0%9F%87%B7194039%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
