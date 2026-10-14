@@ -6,5 +6,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcUpZUDRnRFMxSTZYR2tpb1gzUkNFM0JpbUtqOGR0ag%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNHhBOG1UdWVQS2FPam9NdXg4dHRn@cdn-2d12.giftcardbazarbot.com:8243?type=tcp#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.184:8080#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk=@185.212.171.202:18670#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#[🇩🇪]t.me/ConfigsHub
 ss://rgiw5k0gg5@149.202.57.89:443?security=tls&encryption=none&insecure=0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com#[🇫🇷]t.me/ConfigsHub
