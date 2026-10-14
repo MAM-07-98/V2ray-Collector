@@ -1,2 +1,1 @@
-hysteria2://95vw9exfa91h3q2u@rfiwnhkq.easyiran.org:56818/?hop_interval=10&sni=rfiwnhkq.easyiran.org&obfs=salamander&obfs-password=8pd7jsogcjit6qsa#[🇩🇪]t.me/ConfigsHub
-hysteria2://C0DD7bgChaltqnh%2FT2az6ijM@130.162.134.218:20000?security=tls&obfs=salamander&obfs-password=C0DD7bgChaltqnh%2FT2az6ijM&insecure=0&mport=20000-30000&sni=rmgyvpn.rest#%F0%9F%87%B0%F0%9F%87%B7193918%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://033dc6b532@77.232.139.128:11592/?sni=srv-8718e6.frd21.ru#@V2ray_confiig

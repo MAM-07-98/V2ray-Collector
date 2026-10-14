@@ -1,13 +1,7 @@
-trojan://UX82473651@13.114.99.222:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=allowed-poodle.rooster465.autos#[🇯🇵]t.me/ConfigsHub
 trojan://UX82473651@13.193.213.184:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=stable-python.rooster465.autos#[🇯🇵]t.me/ConfigsHub
 trojan://UX82473651@18.141.136.8:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-mouse.rooster465.autos#[🇸🇬]t.me/ConfigsHub
-trojan://UX82473651@3.112.188.176:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=live-stallion.rooster465.autos#[🇯🇵]t.me/ConfigsHub
-trojan://UX82473651@3.112.29.244:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=evident-ant.rooster465.autos#[🇯🇵]t.me/ConfigsHub
-trojan://UX82473651@54.65.177.190:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=winning-marten.rooster465.autos#[🇯🇵]t.me/ConfigsHub
-trojan://UX82473651@54.72.130.222:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=adapting-basilisk.rooster465.autos#[🇮🇪]t.me/ConfigsHub
+trojan://UX82473651@54.151.181.75:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moral-basilisk.rooster465.autos#[🇸🇬]t.me/ConfigsHub
 trojan://UX82473651@56.10.9.77:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=inviting-ferret.rooster465.autos#[🇸🇬]t.me/ConfigsHub
-trojan://ZUt1VhWhFaOqNrPa@172.67.189.5:443?security=tls&type=ws&host=core-07994c-39ca4a.mobinnanni.workers.dev&path=%2Ftr%2FcMm2OvA39at9DXSAdqz1HKEJ1EOYf%3Fed%3D2560&sni=CoRE-07994c-39ca4a.MobINNanNI.WORkeRs.dEV&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
-trojan://ZUt1VhWhFaOqNrPa@core-07994c-39ca4a.mobinnanni.workers.dev:443?security=tls&type=ws&host=core-07994c-39ca4a.mobinnanni.workers.dev&path=%2Ftr%2F1pR0KPfafZAgVoLXkEX%3Fed%3D2560&sni=coRe-07994c-39ca4A.mOBInNanNI.WOrkErS.DEv&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&host=www.volumeroot.com&fp=edge&type=ws&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
+trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=2.27.109.179.sslip.io#[🇴🇳]t.me/ConfigsHub
 trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇲🇪]t.me/ConfigsHub
-trojan://humanity@46.8.228.165:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🇱🇻]t.me/ConfigsHub
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇫🇮]t.me/ConfigsHub
