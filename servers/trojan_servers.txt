@@ -1,8 +1,10 @@
+trojan://MiTiVPN@199.232.78.101:443?path=%2F--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mfyousheng.nl.eu.org#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@104.21.37.56:443?path=%2Fassignment&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇲🇪]t.me/ConfigsHub
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&#[🇨🇦]t.me/ConfigsHub
+trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@146.75.57.238:443?security=tls&sni=google.com&fp=chrome&alpn=http%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-s1.global.ssl.fastly.net&path=%2F#[🏁]t.me/ConfigsHub
 trojan://mitivpn@146.75.57.238:443?security=tls&sni=google.com&fp=chrome&alpn=http%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-s1.global.ssl.fastly.net&path=%2F%20bored_vpn#[🏁]t.me/ConfigsHub
 trojan://mitivpn@167.82.64.46:443?security=tls&sni=play.google.com&fp=chrome&alpn=http%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-s1.global.ssl.fastly.net&path=%2F%20bored_vpn#[🏁]t.me/ConfigsHub
