@@ -1,2 +1,2 @@
 trojan://MiTiVPN@199.232.78.160:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
-trojan://mitivpn@151.101.38.6:443?security=tls&alpn=http%2F1.1&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&sni=www.firefox.com#[🏁]t.me/ConfigsHub
+trojan://fB%2Bw_VgFFzpA-i_d%40XbO@172.66.47.199:443?path=%2Ftr%2F0iOTFlYl1jA9mVIlhO8%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=ulp3tyormve1zvo8uvtvwecwg.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=UlP3TYoRmvE1zVo8UVtVwEcwg.pAGES.DeV#[🇨🇦]t.me/ConfigsHub
