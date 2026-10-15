@@ -1,4 +1,2 @@
-hysteria2://43212c32-01f2-4356-b216-67dc1c178262@ees92.shhflow.xyz:5443/?sni=ees92.shhflow.xyz#%F0%9F%87%AA%F0%9F%87%AA194790%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@finkawwwbroy5.qcloud.surf:20326/?sni=finkawwwbroy5.qcloud.surf#%F0%9F%87%BA%F0%9F%87%B8194793%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://qtow1x9l2i2zst0q@45.74.158.237:9099?security=tls&obfs=salamander&obfs-password=3b0dp6qtizuawbln&insecure=0&sni=45.74.158.237#%40NETMelliAnti%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 hysteria2://qtow1x9l2i2zst0q@45.74.158.237:9099?security=tls&obfs=salamander&obfs-password=3b0dp6qtizuawbln&insecure=0&sni=45.74.158.237#%F0%9F%87%B9%F0%9F%87%B7194831%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
