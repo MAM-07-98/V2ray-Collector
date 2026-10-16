@@ -1,5 +1,4 @@
 trojan://UX82473651@brave-tomcat.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=brave-tomcat.rooster465.autos#[🇸🇬]t.me/ConfigsHub
-trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@moral-basilisk.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moral-basilisk.rooster465.autos#[🇸🇬]t.me/ConfigsHub
 trojan://UX82473651@noted-cougar.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=noted-cougar.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@pretty-rat.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pretty-rat.rooster465.autos#[🏁]t.me/ConfigsHub
