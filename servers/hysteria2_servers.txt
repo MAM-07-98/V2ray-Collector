@@ -1,2 +1,1 @@
 hysteria2://qtow1x9l2i2zst0q@45.74.158.237:9099?security=tls&obfs=salamander&obfs-password=3b0dp6qtizuawbln&insecure=0&sni=45.74.158.237#%40NETMelliAnti%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-hysteria2://qtow1x9l2i2zst0q@45.74.158.237:9099?security=tls&obfs=salamander&obfs-password=3b0dp6qtizuawbln&insecure=0&sni=45.74.158.237#%F0%9F%87%B9%F0%9F%87%B7194831%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
