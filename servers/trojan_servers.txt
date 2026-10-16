@@ -1,12 +1,8 @@
-trojan://UX82473651@moral-basilisk.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moral-basilisk.rooster465.autos#[🇸🇬]t.me/ConfigsHub
 trojan://UX82473651@musical-mouse.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=musical-mouse.rooster465.autos#[🇸🇬]t.me/ConfigsHub
 trojan://UX82473651@noted-cougar.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=noted-cougar.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@optimum-snapper.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=optimum-snapper.rooster465.autos#[🏁]t.me/ConfigsHub
-trojan://UX82473651@pretty-rat.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pretty-rat.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@pure-kodiak.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pure-kodiak.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=simple-molly.rooster465.autos#[🇸🇬]t.me/ConfigsHub
-trojan://e7TTceggMwUMg%2BaFN%3AF4@172.66.47.18:443?path=%2Ftr%2FSIeRkg2QvR2Zcpu0SeEMow%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=apkd964o1oghltghht0l0of.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=APkD964o1oghlTghHt0L0Of.pAgeS.Dev#[🇨🇦]t.me/ConfigsHub
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@146.75.57.238:443?security=tls&sni=www.google.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn--s3.global.ssl.fastly.net&path=%2F#[🏁]t.me/ConfigsHub
 trojan://mitivpn@167.82.64.46:443?security=tls&sni=firefox.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn--s2.global.ssl.fastly.net&path=%2F#[🏁]t.me/ConfigsHub
 trojan://mitivpn@199.232.78.160:443?security=tls&sni=google.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn--s2.global.ssl.fastly.net&path=%2F#[🏁]t.me/ConfigsHub
