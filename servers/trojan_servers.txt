@@ -1,5 +1,7 @@
 trojan://UX82473651@3.34.131.153:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pretty-rat.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@3.35.168.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=noted-cougar.rooster465.autos#[🏁]t.me/ConfigsHub
+trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#[🏁]t.me/ConfigsHub
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&host=www.volumeroot.com&fp=edge&type=ws&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
 trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=edge&type=ws&host=www.volumeroot.com&path=%2Fassignment#[🏁]t.me/ConfigsHub
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#[🏁]t.me/ConfigsHub
 trojan://mitivpn@151.101.38.6:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.firefox.com#[🏁]t.me/ConfigsHub

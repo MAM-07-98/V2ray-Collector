@@ -1,11 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXMGZTNlE2cHl6bEpUOWJJM29wbzg2cEdMYkVmSldOb25WUk1Ta3hVM3lnPQ@web.asasin4.ir:15990?type=tcp#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzcFF1T2VxeFYzbm14U25TbW9qVTFtT0lTVmdPQnZGRQ%3D%3D@Ms-IP.xQNetWork.iR:332#[🇮🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzcFF1T2VxeFYzbm14U25TbW9qVTFtT0lTVmdPQnZGRQ%3D%3D@Ms-IP.xQNetWork.iR:8880#[🇮🇷]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ@194.87.196.107:40440#[🇷🇺]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WWpjNVkyVXdZVFF3TlRJMU1tTXlObUUzTmpnd09UQm1Nak5rTURFNA@188.121.121.178:9112?prefix=%16%03%01%00%C2%A8%01%01#[🇮🇷]t.me/ConfigsHub
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6c216a2tpcmg4eWIzb3l1eQ@vexostore.ir:8388?type=tcp#[🇹🇷]t.me/ConfigsHub
