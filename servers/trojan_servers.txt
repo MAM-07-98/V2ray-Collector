@@ -2,6 +2,9 @@ trojan://UX82473651@3.34.131.153:443?security=tls&insecure=0&headerType=none&typ
 trojan://UX82473651@3.35.168.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=noted-cougar.rooster465.autos#[🏁]t.me/ConfigsHub
 trojan://UX82473651@brave-tomcat.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=brave-tomcat.rooster465.autos#[🇸🇬]t.me/ConfigsHub
 trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#[🏁]t.me/ConfigsHub
+trojan://UX82473651@moral-basilisk.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moral-basilisk.rooster465.autos#[🇸🇬]t.me/ConfigsHub
+trojan://UX82473651@pretty-rat.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pretty-rat.rooster465.autos#[🏁]t.me/ConfigsHub
+trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🏁]t.me/ConfigsHub
 trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇪🇸]t.me/ConfigsHub
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&host=www.volumeroot.com&fp=edge&type=ws&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
 trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=edge&type=ws&host=www.volumeroot.com&path=%2Fassignment#[🏁]t.me/ConfigsHub
