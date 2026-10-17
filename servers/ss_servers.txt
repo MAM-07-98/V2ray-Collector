@@ -1,14 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443?headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppekkwS2NMUkVHMF9tWHR5WVNGcF8zN1hTTzdLb0R2Rg@mojif.fusetea.ir:2089#[🇮🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#[🏁]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206NDhiMGRjNDgtM2ZhMS00NGFhLWJlZTktNTA1YjI2MDQ5ZGVk@ruot.ayucloudservices.nl:35033#[🏁]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206NjYzYjM0MDViZjA2NjJkMDEwNTkwN2Y0Y2VjZWI5ZjY@38.60.223.254:10881#[🇷🇺]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206Yzg1NWI3MWUtZjNjMi00NDJhLTk0MjktMDg0NGViNDM0NmM1@ruot.ayucloudservices.nl:35005#[🏁]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206ZTM4MzQwMzctNzBkZC00ZjZlLTk1ZjYtYzM3NjMzNjY0YmMx@ruot.ayucloudservices.nl:40023#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206NjJlYzhiNjctZjZmMy00YzgzLTk4ZDgtNzEyZTk2NmY3NWM5@ruot.ayucloudservices.nl:22056#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@176.32.32.108:18443#[🇷🇺]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206ZDQ2MzQ5OTQtMGU1My00YTU5LTkyZTctZjk5OTc1NWI4NzZm@ruot.ayucloudservices.nl:22044#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#[🏁]t.me/ConfigsHub
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6c216a2tpcmg4eWIzb3l1eQ@vexostore.ir:8388?type=tcp#[🇹🇷]t.me/ConfigsHub
