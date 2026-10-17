@@ -1,4 +1,5 @@
 trojan://Trojan%4082164024@pl.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl.tronsg.com#[🇵🇱]t.me/ConfigsHub
+trojan://e7TTceggMwUMg%2BaFN%3AF4@188.114.97.0:443?path=%2Ftr%2FK6yFgCX8e93ySqOO4K%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=apkd964o1oghltghht0l0of.pages.dev&fp=android&type=ws&allowInsecure=0&sni=Apkd964o1oghltGhhT0L0oF.PAGEs.DeV#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@104.18.9.83:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇲🇽]t.me/ConfigsHub
