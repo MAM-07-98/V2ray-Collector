@@ -4,4 +4,5 @@ trojan://UX82473651@43.201.100.203:443?security=tls&insecure=0&headerType=none&f
 trojan://cMCQxnflDO@31.76.10.180:36508?security=none#[🇩🇪]t.me/ConfigsHub
 trojan://hgwb523dhb0091n2@185.83.112.145:2020?mode=auto&path=%2Froot&security=reality&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=ZtGkaZ5ROj_r3xBiEeGdX7B9Pnl_wM8ic_2JR0vfbX0&host=185.83.112.145&fp=chrome&spx=%2Fb493a8c8a8c6d3a&type=xhttp&sni=www.cloudflare.com&sid=35218f09#[🇮🇷]t.me/ConfigsHub
 trojan://humanity@104.18.35.86:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#[🇨🇦]t.me/ConfigsHub
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🇫🇮]t.me/ConfigsHub
 trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
