@@ -1,3 +1,4 @@
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de2.dedushka.top#[🇩🇪]t.me/ConfigsHub
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&sni=de2.dedushka.top&fp=firefox&alpn=http%2F1.1&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&sni=de4.dedushka.top&fp=firefox&alpn=http%2F1.1&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&sni=de6.dedushka.top&fp=firefox&alpn=http%2F1.1&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
@@ -5,12 +6,7 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&sni=
 trojan://humanity@141.193.213.172:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#[🏁]t.me/ConfigsHub
 trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---bored_vpn&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---mehrosaboran&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇨🇦]t.me/ConfigsHub
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🇨🇦]t.me/ConfigsHub
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@188.114.97.6:443?security=tls&sni=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment%3Fed%23Telegram---bored_vpn#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@188.114.97.6:443?security=tls&sni=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment%3Fed%23Telegram---mehrosaboran#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@www.speedtest.net:443?path=%2Fassignment%3Fed%23Telegram---bored_vpn&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
-trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
