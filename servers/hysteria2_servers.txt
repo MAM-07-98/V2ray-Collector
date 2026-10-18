@@ -1,2 +1,0 @@
-hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@206.1.96.108:7443/?obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq&sni=me17.msjia8844.site#%F0%9F%87%B9%F0%9F%87%B7196744%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@me17.msjia8844.site:7443/?insecure=1&obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq&sni=me17.msjia8844.site#%F0%9F%87%B9%F0%9F%87%B7196746%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
