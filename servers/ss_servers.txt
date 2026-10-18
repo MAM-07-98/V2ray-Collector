@@ -1,1 +1,4 @@
+ss://MAconnectt@panelll-production-fba3.up.railway.app:443?path=%2Fws&security=tls&alpn=h2&encryption=none&insecure=0&host=panelll-production-fba3.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=panelll-production-fba3.up.railway.app#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDlwdGxoSmZZb2I0Ni14N3h5OTJB@p2tun2.greewebservices.ir:1020?type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDlwdGxoSmZZb2I0Ni14N3h5OTJB@p2tun3.greewebservices.ir:1030?type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#[🏁]t.me/ConfigsHub
