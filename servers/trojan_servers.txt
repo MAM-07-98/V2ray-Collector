@@ -1,6 +1,7 @@
-trojan://UX82473651@56.10.9.77:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=inviting-ferret.rooster465.autos#[🇸🇬]t.me/ConfigsHub
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@188.114.98.0:443?path=%2F0962&security=tls&alpn=http%2F1.1&host=nimm.mpd.cc.cd&fp=chrome&type=ws&sni=nimm.mpd.cc.cd#[🇨🇦]t.me/ConfigsHub
-trojan://humanity@46.101.143.59:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm#[🇩🇪]t.me/ConfigsHub
-trojan://humanity@82.196.5.20:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
+trojan://humanity@104.21.57.25:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🇨🇦]t.me/ConfigsHub
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇨🇦]t.me/ConfigsHub
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇫🇮]t.me/ConfigsHub
 trojan://mitivpn@167.82.64.46:443?security=tls&sni=firefox.com&fp=chrome&alpn=http%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#[🏁]t.me/ConfigsHub
 trojan://mitivpn@199.232.78.160:443?security=tls&sni=firefox.com&fp=chrome&alpn=http%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#[🏁]t.me/ConfigsHub
