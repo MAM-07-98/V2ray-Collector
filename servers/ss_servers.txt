@@ -1,4 +1,6 @@
 ss://MAconnectt@panelll-production-fba3.up.railway.app:443?path=%2Fws&security=tls&alpn=h2&encryption=none&insecure=0&host=panelll-production-fba3.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=panelll-production-fba3.up.railway.app#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDlwdGxoSmZZb2I0Ni14N3h5OTJB@p2tun2.greewebservices.ir:1020?type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDlwdGxoSmZZb2I0Ni14N3h5OTJB@p2tun3.greewebservices.ir:1030?type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0TTBzVjNDcmpBVTBub2tk@20.164.216.208:443#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHbkFRR3dCcTZRcGZNNVZidk9TVnVB@ir28482.jdjcr.3842.marzara.ir:1111#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
+ss://YWVzLTI1Ni1nY206OTk0Y2NhYmY2ZjA5NTBkNg@89.125.103.208:20111#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
