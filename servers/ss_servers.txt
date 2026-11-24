@@ -3,13 +3,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYnlzNzdwcG5hdDZ3Mnln@51.38.127.93:8080?#[�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.213.23.63:990#[🇳🇴]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIMjBhV1ItU29QeWRIc2RJWmFuU2Nfb0lYNTBlRzNKMA@dash.chiex.ir:1349#[🇫🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbUZrTg@sg1.ssobfs.site:8388#[🇸🇬]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdUtQMGtSR0M1MXBUNzNK@20.123.9.179:443#[🇮🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdUtQMGtSR0M1MXBUNzNK@20.123.9.179:443?#[🇮🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVc0ZtYXhFSFZ3VWEwMjVqbW13TEc3ZHUtekxWcVpLMA%3D%3D@64.49.15.224:32845#[🇹🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUnFUWldpX0RobjItWEo5UHd4YmtKOXhFWV8wMTNlbw==@0.0.0.0:1080#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#[🇳🇱]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?#[🇳🇱]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.g31.66:8080#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPfK2EyaXdOND0@185.176.204.18:19999#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@135.148.42.13:8388#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@184.107.106.78:8388?#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@200.102.179.179:8388#[🇺🇸]t.me/ConfigsHub
