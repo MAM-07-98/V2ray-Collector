@@ -1,12 +1,9 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?type=tcp&security=tls&headerType=none&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?type=tcp&security=tls&headerType=none&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com&insecure=1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=yourultimateprofessionalcareerhub.com#[🇨🇭]t.me/ConfigsHub
 trojan://b9c83038-8118-f3fc-016f-2e69a57347b0@freenetxbot.ahbpanel.ir:2096?security=reality&sni=www.microsoft.com&fp=chrome&pbk=ZKGMt0Rnd8Vu7YBNmiW7aPvCzq1K48a2x0vmkBBwlHQ&sid=d6642b36&spx=/&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@ddrr1.tube-cat.com:28478?allowInsecure=1&sni=r.tw2.cat.bilibili.com#[🇯🇵]t.me/ConfigsHub
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@ddrr2.tube-cat.com:59188?allowInsecure=1&sni=r.tw3.cat.bilibili.com#[🇯🇵]t.me/ConfigsHub
-trojan://d82f939a-8a29-eb33-3aa2-08fc2817f6e2@freenetxbot.ahbpanel.ir:2096?security=reality&sni=www.microsoft.com&fp=chrome&pbk=ZKGMt0Rnd8Vu7YBNmiW7aPvCzq1K48a2x0vmkBBwlHQ&sid=d6642b36&spx=/&type=tcp#[🇺🇸]t.me/ConfigsHub
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?sni=hk.catxstar.com&allowInsecure=1#[🇭🇰]t.me/ConfigsHub
 trojan://dde9d0c3-42c7-911b-7a82-b768a728c200@freenetxbot.ahbpanel.ir:2096?security=reality&sni=www.microsoft.com&fp=chrome&pbk=ZKGMt0Rnd8Vu7YBNmiW7aPvCzq1K48a2x0vmkBBwlHQ&sid=d6642b36&spx=/&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://df044aa2-7d9a-09fe-3b4e-eb7b282723c1@freenetxbot.ahbpanel.ir:2096?security=reality&sni=www.microsoft.com&fp=chrome&pbk=ZKGMt0Rnd8Vu7YBNmiW7aPvCzq1K48a2x0vmkBBwlHQ&sid=d6642b36&spx=/&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://jcTG9WSWMJAmR4rv10xpww@199.232.78.159:443?type=ws&security=tls&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#[🇺🇸]t.me/ConfigsHub
