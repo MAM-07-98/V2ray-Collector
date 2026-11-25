@@ -1,2 +1,1 @@
-trojan://wyOG4PjqWN9Amkd7y_8uBztBDE9glXzn@vpnstan.ahbpanel.ir:2096?security=none&headerType=none&type=tcp#[🇹🇷]t.me/ConfigsHub
 trojan://wyOG4PjqWN9Amkd7y_8uBztBDE9glXzn@vpnstan.ahbpanel.ir:2096?security=none&type=tcp&headerType=none#[🇹🇷]t.me/ConfigsHub
