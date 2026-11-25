@@ -1,1 +1,2 @@
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?security=tls&sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com&type=tcp&headerType=none#[🇳🇱]t.me/ConfigsHub
+trojan://7756180a-3a07-4939-91be-ae7664b311ca@23.144.92.53:49213?insecure=1&security=tls&sni=www.itunes.com&type=tcp#[🇺🇸]t.me/ConfigsHub
