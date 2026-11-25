@@ -1,10 +1,7 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.searchnationwidecareerchangehelperandguidancetoday.com#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com#[🇳🇱]t.me/ConfigsHub
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?sni=bgsg1.hikigo.com&allowInsecure=1#[🇸🇬]t.me/ConfigsHub
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@bg.foldandflyhigh.com:443?type=ws&security=tls&sni=bg.foldandflyhigh.com&alpn=http%2F1.1&host=bg.foldandflyhigh.com&path=%2F#[🇬🇧]t.me/ConfigsHub
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@bg.foldandflyhigh.com:443?type=ws&security=tls&sni=bg.foldandflyhigh.com&alpn=http%2F1.1&host=bg.foldandflyhigh.com&path=%2F#[🇳🇱]t.me/ConfigsHub
-trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?security=tls&sni=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http%2F1.1&type=ws&host=bitter-math-4364.vpnetwork3567.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
-trojan://963A4918-A630-29DA-A873-093CDF8AD784@dry-snowflake-b29f.vpnetwork3567.workers.dev:443?security=tls&sni=dry-snowflake-b29f.vpnetwork3567.workers.dev&alpn=http%2F1.1&type=ws&host=dry-snowflake-b29f.vpnetwork3567.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@dry-snowflake-b29f.vpnetwork3567.workers.dev:443?type=ws&security=tls&sni=dry-snowflake-b29f.vpnetwork3567.workers.dev&alpn=http%2F1.1&host=dry-snowflake-b29f.vpnetwork3567.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@lingering-fire-1fe9.vpnetwork3567.workers.dev:443?type=ws&security=tls&sni=lingering-fire-1fe9.vpnetwork3567.workers.dev&alpn=http%2F1.1&host=lingering-fire-1fe9.vpnetwork3567.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@md.foldandflyhigh.com:443?type=ws&security=tls&sni=md.foldandflyhigh.com&alpn=http%2F1.1&host=md.foldandflyhigh.com&path=%2F#[🇬🇧]t.me/ConfigsHub
