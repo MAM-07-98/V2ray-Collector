@@ -1,3 +1,6 @@
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443#[🇨🇦]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?sni=blog.connectingpeoplewithgreatjobs.com#[🇨🇦]t.me/ConfigsHub
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=%2Fus-gllc@ThePackageCom#[🇨🇦]t.me/ConfigsHub
+trojan://d82f939a-8a29-eb33-3aa2-08fc2817f6e2@freenetxbot.ahbpanel.ir:2096?security=reality&sni=www.microsoft.com&fp=chrome&pbk=ZKGMt0Rnd8Vu7YBNmiW7aPvCzq1K48a2x0vmkBBwlHQ&sid=d6642b36&spx=/&type=tcp#[🇺🇸]t.me/ConfigsHub
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?sni=hk.catxstar.com&allowInsecure=1#[🇭🇰]t.me/ConfigsHub
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20051?sni=hk.catxstar.com&allowInsecure=1#[🇭🇰]t.me/ConfigsHub
