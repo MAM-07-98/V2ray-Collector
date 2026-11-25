@@ -1,1 +1,1 @@
-trojan://wyOG4PjqWN9Amkd7y_8uBztBDE9glXzn@vpnstan.ahbpanel.ir:2096?security=none&type=tcp&headerType=none#[🇹🇷]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?security=tls&sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com&type=tcp&headerType=none#[🇳🇱]t.me/ConfigsHub
