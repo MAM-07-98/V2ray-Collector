@@ -4,4 +4,5 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&insecu
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443#[🇪🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.46:443?sni=searchnationwidecareerchangehelperandguidancetoday.com&type=tcp&fp=chrome#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.215:443/?type=tcp&security=tls&sni=courses.indyourperfectremotetechjobfromthecomfortofhome.com#[🇳🇱]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?security=tls&sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com&type=tcp&headerType=none#[🇳🇱]t.me/ConfigsHub
 trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@us-1.gsafevpnapi.com:44370?sni=www.yahoo.com#[🇺🇸]t.me/ConfigsHub
