@@ -1,7 +1,17 @@
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443/?type=tcp&security=tls&sni=blog.browseseniorrolesandenhanceyourcareertoday.com&fp=chrome#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443/?type=tcp&security=tls&sni=browseseniorrolesandenhanceyourcareertoday.com#[🇺🇸]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443/?type=tcp&security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443/?type=tcp&security=tls&sni=api.browseseniorrolesandenhanceyourcareertoday.com#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443/?type=tcp&security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com#[🇺🇸]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443/?type=tcp&security=tls&sni=cdn.explorecreativejobsandenhanceyourcareerportfolio.com#[🇺🇸]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443/?type=tcp&security=tls&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#[🇺🇸]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443/?type=tcp&security=tls&sni=www.connectingpeoplewithgreatjobs.com#[🇨🇦]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443/?type=tcp&security=tls&sni=www.nextjobopportunityandclaimyouridealrole.com#[🇺🇸]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443/?type=tcp&security=tls&sni=resources.nextjobopportunityandclaimyouridealrole.com#[🇺🇸]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443/?type=tcp&security=tls&sni=blog.nextjobopportunityandclaimyouridealrole.com#[🇺🇸]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443/?type=tcp&security=tls&sni=courses.nextjobopportunityandclaimyouridealrole.com#[🇺🇸]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.50:443/?type=tcp&security=tls&sni=cdn.nextjobopportunityandclaimyouridealrole.com#[🇺🇸]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443/?type=tcp&security=tls&sni=learn.nextjobopportunityandclaimyouridealrole.com#[🇺🇸]t.me/ConfigsHub
 trojan://1sUm9iYpsjLCOC9THsL9cg@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&insecure=0&host=pirebepo646.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#[🇺🇸]t.me/ConfigsHub
 trojan://1sUm9iYpsjLCOC9THsL9cg@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER&security=tls&insecure=0&host=filasi554.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#[🇺🇸]t.me/ConfigsHub
 trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=43.156.36.253&allowInsecure=1&type=tcp#[🇸🇬]t.me/ConfigsHub
