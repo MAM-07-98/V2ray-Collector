@@ -1,0 +1,1 @@
+hysteria2://688d05790b544bf2bd6be3e7b1dc31b6@link-v1.via-x.ru:8445?security=tls&obfs=salamander&alpn=h3&obfs-password=mmnn3ws0yrmsouwn&insecure=0&sni=hub.via-x.ru#%F0%9F%87%B3%F0%9F%87%B1%20Gamma
