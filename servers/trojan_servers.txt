@@ -2,7 +2,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?security=tls&insec
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&headerType=none&type=tcp&sni=blog.nextjobopportunityandclaimyouridealrole.com#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&headerType=none&type=tcp&sni=api.nextjobopportunityandclaimyouridealrole.com#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?security=tls&headerType=none&type=tcp&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com#[🇺🇸]t.me/ConfigsHub
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.30:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.searchnationwidecareerchangehelperandguidancetoday.com#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com#[🇳🇱]t.me/ConfigsHub
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@lingering-fire-1fe9.vpnetwork3567.workers.dev:443?type=ws&security=tls&sni=lingering-fire-1fe9.vpnetwork3567.workers.dev&alpn=http%2F1.1&host=lingering-fire-1fe9.vpnetwork3567.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@sg.foldandflyhigh.com:443?type=ws&security=tls&sni=sg.foldandflyhigh.com&alpn=http%2F1.1&host=sg.foldandflyhigh.com&path=%2F#[🇳🇱]t.me/ConfigsHub
