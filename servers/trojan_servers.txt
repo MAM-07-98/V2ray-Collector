@@ -1,8 +1,4 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&sni=resources.yourultimateprofessionalcareerhub.com&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#[🇨🇭]t.me/ConfigsHub
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.nextjobopportunityandclaimyouridealrole.com#[🇺🇸]t.me/ConfigsHub
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443#[🇪🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.46:443?sni=searchnationwidecareerchangehelperandguidancetoday.com&type=tcp&fp=chrome#[🇺🇸]t.me/ConfigsHub
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.215:443/?type=tcp&security=tls&sni=courses.indyourperfectremotetechjobfromthecomfortofhome.com#[🇳🇱]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?security=tls&sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com&type=tcp&headerType=none#[🇳🇱]t.me/ConfigsHub
-trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@us-1.gsafevpnapi.com:44370?sni=www.yahoo.com#[🇺🇸]t.me/ConfigsHub
+trojan://1sUm9iYpsjLCOC9THsL9cg@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&insecure=0&host=dekoto845.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#[🇺🇸]t.me/ConfigsHub
 trojan://pH%5B%5DS%5BBh%3A_%3AD6T4k@104.19.45.195:443?security=tls&sni=AZaDneT-692.PagEs.DEv&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2FtrsVu9Ualb1DOfGjpw#[🇨🇦]t.me/ConfigsHub
