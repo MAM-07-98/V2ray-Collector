@@ -1,6 +1,8 @@
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?sni=resources.nextjobopportunityandclaimyouridealrole.com&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#[🇦🇺]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com#[🇳🇱]t.me/ConfigsHub
 trojan://1234567890@202.61.195.167:443?sni=kfm-bn0.pages.dev&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@nu2rb.supertoolify.com:443?sni=nu2rb.supertoolify.com&allowInsecure=1#[🇯🇵]t.me/ConfigsHub
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=%2Fus-gllc@ThePackageCom#[🇨🇦]t.me/ConfigsHub
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@bg.foldandflyhigh.com:443?type=ws&security=tls&sni=bg.foldandflyhigh.com&alpn=http%2F1.1&host=bg.foldandflyhigh.com&path=%2F#[🇬🇧]t.me/ConfigsHub
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@bg.foldandflyhigh.com:443?type=ws&security=tls&sni=bg.foldandflyhigh.com&alpn=http%2F1.1&host=bg.foldandflyhigh.com&path=%2F#[🇳🇱]t.me/ConfigsHub
@@ -8,8 +10,8 @@ trojan://963A4918-A630-29DA-A873-093CDF8AD784@dry-snowflake-b29f.vpnetwork3567.w
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@lingering-fire-1fe9.vpnetwork3567.workers.dev:443?type=ws&security=tls&sni=lingering-fire-1fe9.vpnetwork3567.workers.dev&alpn=http%2F1.1&host=lingering-fire-1fe9.vpnetwork3567.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@md.foldandflyhigh.com:443?type=ws&security=tls&sni=md.foldandflyhigh.com&alpn=http%2F1.1&host=md.foldandflyhigh.com&path=%2F#[🇬🇧]t.me/ConfigsHub
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@md.foldandflyhigh.com:443?type=ws&security=tls&sni=md.foldandflyhigh.com&alpn=http%2F1.1&host=md.foldandflyhigh.com&path=%2F#[🇳🇱]t.me/ConfigsHub
-trojan://963A4918-A630-29DA-A873-093CDF8AD784@sg.foldandflyhigh.com:443?type=ws&security=tls&sni=sg.foldandflyhigh.com&alpn=http%2F1.1&host=sg.foldandflyhigh.com&path=%2F#[🇳🇱]t.me/ConfigsHub
 trojan://MiTiVPN@199.232.78.160:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🇺🇸]t.me/ConfigsHub
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?sni=hk.catxstar.com&fp=chrome&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
 trojan://dad9f029-e280-4dc4-8855-fec0f8143925@hlhl.thugiping.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hlhl.thugiping.com#[🇳🇱]t.me/ConfigsHub
 trojan://mitivpn@167.82.64.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%3F28&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=steamstatic.com#[🇺🇸]t.me/ConfigsHub
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=steamstatic.com#[🇺🇸]t.me/ConfigsHub
