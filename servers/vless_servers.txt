@@ -1,7 +1,6 @@
 vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6b04608f.adhil.uk&fp=safari&type=tcp&headerType=none#[🇷🇺]t.me/ConfigsHub
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&host=%2F%3FTelegram---%40bored_vpn&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#[🇺🇸]t.me/ConfigsHub
 vless://076799f8-d922-4bf1-805d-e758e6eb925f@free.server.darknetlk.com:443?sni=aka.ms&fp=chrome&security=tls#[🇸🇬]t.me/ConfigsHub
-vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@170.168.32.125:443?security=reality&encryption=none&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=6d#[🇺🇸]t.me/ConfigsHub
 vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@45.142.212.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&sid=24c4&type=tcp&headerType=none#[🇵🇱]t.me/ConfigsHub
 vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@45.142.212.191:443?security=reality&encryption=none&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=24c4#[🇵🇱]t.me/ConfigsHub
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&type=tcp&headerType=none#[🇺🇸]t.me/ConfigsHub
