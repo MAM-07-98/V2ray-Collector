@@ -59,6 +59,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#[🇯🇵]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.24.29:5555#[🇯🇵]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0%3D@213.176.92.148:40647#[🇫🇮]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#[🇺🇸]t.me/ConfigsHub
