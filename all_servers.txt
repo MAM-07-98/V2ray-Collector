@@ -1,3 +1,5 @@
+vless://8f2940bc-a353-4efc-a9a0-22184cd4f1ac@p2real33.greewebservices.ir:1330?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#[🇧🇬]t.me/ConfigsHub
+vless://359b9ad3-0009-4655-8872-d0ab566751d3@31.43.179.111:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=d03298146e8e2fe6.hozheen.ir#[🇰🇿]t.me/ConfigsHub
 vless://00c93313-37e9-4d96-8ab6-b4294170ef06@tr.subscriptionservice.ir:8443?security=&encryption=mlkem768x25519plus.native.0rtt.i-mCIgozdUXjdnvwa_1h7C1tM-A4lq45e1XfJTCQawk&host=play.googleapis.com&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
 trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&host=looaboi4jji.global.ssl.fastly.net.&type=ws&allowInsecure=1&sni=cdn.akamai.steamstatic.com#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cm1nbWhqY2w2NDR2ZG5o@54.37.240.40:8080#[🇬🇧]t.me/ConfigsHub
@@ -116,5 +118,3 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICIxMzQuMTk1LjE5Ni4yMTEiLCAicG9ydCI6ICIxODAwMCIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInJhdyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.88.63.39:19999#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@162.251.62.31:19999#[🇺🇸]t.me/ConfigsHub
-vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:2886?security=reality&encryption=none&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&headerType=none&fp=chrome&spx=%2F0mqMX2AD4eAGzhI&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=e19da077d7#[🇩🇪]t.me/ConfigsHub
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.115.140:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#[🇬🇧]t.me/ConfigsHub
