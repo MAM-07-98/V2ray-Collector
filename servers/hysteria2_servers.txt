@@ -1,2 +1,1 @@
-hysteria2://AIbXqmbagi8c_pPQF8UkyQRgAlGbk5aT@nemazu.grandserver8.ir:8445?security=tls&obfs=salamander&alpn=h3&obfs-password=5wnhum8v8a5f8m9z&insecure=0&sni=donige.grandserver8.ir#%F0%9F%87%B1%F0%9F%87%AE232101%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://NL2026hy@147.45.149.88:8443?security=tls&obfs=salamander&obfs-password=SalamanderNL2026&insecure=0&sni=nl.nobelchat.ru#%23%EF%B8%8F%E2%83%A36%40ConfigV2RayNG
