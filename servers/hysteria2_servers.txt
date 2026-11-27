@@ -1,1 +1,0 @@
-hysteria2://688d05790b544bf2bd6be3e7b1dc31b6@link-v1.via-x.ru:8445?security=tls&obfs=salamander&alpn=h3&obfs-password=mmnn3ws0yrmsouwn&insecure=0&sni=hub.via-x.ru#%F0%9F%87%BA%F0%9F%87%B8231936%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
