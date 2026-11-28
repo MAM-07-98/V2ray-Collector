@@ -1,2 +1,1 @@
-hysteria2://fb721937-6284-4892-9cbd-c3ba2cb66b4a@85.8.201.247:443/?insecure=1&sni=cdn.mornismp.ru#[🇷🇺]t.me/ConfigsHub
 hysteria2://0c66ef78-33b9-4f88-9529-50db9919fd33@195.209.217.251:30443?security=tls&insecure=0&sni=dlfd3b.static.tv-av.fun#%40nekopingbot_43598%20%F0%9F%8C%8D%20%E2%9A%A1%EF%B8%8F
