@@ -7,10 +7,5 @@ trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@cz-tr.pasar2.avqu.ir:443?security=tls&
 trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@de-tr.pasar2.avqu.ir:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
 trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@dk-tr.pasar2.avqu.ir:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
 trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@es-tr.pasar2.avqu.ir:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
-trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@it-tr.pasar2.avqu.ir:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
-trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@nl-tr.pasar2.avqu.ir:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
 trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@no-tr.pasar2.avqu.ir:443?security=tls&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
-trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@no-tr.pasar2.avqu.ir:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
-trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@se-tr.pasar2.avqu.ir:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
-trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@tr-tr.pasar2.avqu.ir:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
 trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&host=loosnsj5aboijji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=cdn.akamai.steamstatic.com#[🇺🇸]t.me/ConfigsHub
