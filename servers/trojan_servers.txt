@@ -1,4 +1,3 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.nextjobopportunityandclaimyouridealrole.com#[🇺🇸]t.me/ConfigsHub
 trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@at-tr.pasar2.avqu.ir:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
 trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@be-tr.pasar2.avqu.ir:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
 trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@ch-tr.pasar2.avqu.ir:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
