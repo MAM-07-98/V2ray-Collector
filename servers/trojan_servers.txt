@@ -1,3 +1,4 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&sni=api.yourultimateprofessionalcareerhub.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#[🇨🇭]t.me/ConfigsHub
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&sni=resources.nextjobopportunityandclaimyouridealrole.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#[🇺🇸]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#[🇩🇪]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=resources.iloverussia2026.com#[🇩🇪]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=learn.iloverussia2026.com#[🇩🇪]t.me/ConfigsHub
 trojan://VQkStTXB2NZQTQUrsuVK26eR8L1vV6Am@no-tr.pasar2.avqu.ir:443?security=tls&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pasar2.avqu.ir#[🇩🇪]t.me/ConfigsHub
